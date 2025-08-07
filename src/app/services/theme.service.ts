@@ -1,12 +1,12 @@
 import { Injectable, Inject, PLATFORM_ID } from '@angular/core';
-import { ThemeType } from '../models/theme.type';
+import { ThemeType } from '../models/theme.enum';
 import { isPlatformBrowser } from '@angular/common';
 
 @Injectable({
   providedIn: 'root'
 })
 export class ThemeService {
-  private currentTheme: ThemeType | undefined;
+  private currentTheme = ThemeType.Letterboxd;
 
   constructor(@Inject(PLATFORM_ID) private platformId: Object) {}
 
@@ -25,9 +25,8 @@ export class ThemeService {
   initializeTheme(): void {
     if (isPlatformBrowser(this.platformId)) {
       const savedTheme = localStorage.getItem('theme') as ThemeType;
-      this.setTheme(savedTheme || 'netflix-theme');
+      this.setTheme(savedTheme || this.currentTheme);
       return;
     }
-    this.setTheme('netflix-theme');
   }
 }

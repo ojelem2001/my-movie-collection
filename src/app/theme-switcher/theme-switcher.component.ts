@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ThemeService } from '../services/theme.service';
-import { ThemeType } from '../models/theme.type';
+import { ThemeType } from '../models/theme.enum';
 
 @Component({
   selector: 'app-theme-switcher',
@@ -10,7 +10,7 @@ import { ThemeType } from '../models/theme.type';
 })
 export class ThemeSwitcherComponent {
   currentTheme: ThemeType | undefined;
-  themes: ThemeType[] = ['netflix-theme', 'letterboxd-theme'];
+  themes = Object.values(ThemeType);;
 
   constructor(private themeService: ThemeService) {
     this.currentTheme = this.themeService.getCurrentTheme();
