@@ -1,0 +1,24 @@
+<div class="media-card">
+  <div class="media-card-img-container">
+    <img [src]="media.posterUrl" [alt]="media.title">
+  </div>
+  <div class="media-info">
+    <h3>{{ media.title }} </h3>
+    <p class="original-title" *ngIf="media.originalTitle && media.originalTitle !== media.title">
+      {{ media.originalTitle }}
+    </p>
+    <button class="play-button" (click)="playInVLC()">
+      <span class="vlc-icon"></span> Смотреть
+    </button>
+    <div class="media-meta">
+      <span *ngIf="media.type === 'series' && media.seasons">
+        {{ media.seasons }} сезон{{ media.seasons > 4 ? 'ов' : media.seasons > 1 ? 'а' : '' }};
+      </span>
+      <span class="year">{{ media.year }}</span>
+      <span class="divider">•</span>
+      <span class="genres">{{ media.genres.slice(0, 2).join(', ') }}</span>
+      <span *ngIf="media.genres.length > 3" class="more-genres">+{{ media.genres.length - 3 }}</span>
+    </div>
+    <p>{{ media.description }}</p>
+  </div>
+</div>

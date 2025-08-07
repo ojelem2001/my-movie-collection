@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="head-container">
+    <app-media-filters
+      (filterChange)="onFiltersChanged($event)"
+    ></app-media-filters>
+    <app-theme-switcher ngSkipHydration></app-theme-switcher>
+  </div>
+
+  <div class="category-tabs">
+    <button 
+      class="category-tab" 
+      [class.active]="currentView === mediaType.MOVIE"
+      (click)="showMovies()">
+      <i class="tab-icon movie-icon"></i>
+      <span>Фильмы</span>
+      <span class="counter">{{moviesCount$$.getValue()}}</span>
+    </button>
+    
+    <button 
+      class="category-tab" 
+      [class.active]="currentView === mediaType.SERIES"
+      (click)="showSeries()">
+      <i class="tab-icon series-icon"></i>
+      <span>Сериалы</span>
+      <span class="counter">{{seriesCount$$.getValue()}}</span>
+    </button>
+  </div>
+  <app-movie-list *ngIf="currentView === mediaType.MOVIE" 
+    [filters]="currentFilters" 
+    [movies]="movies">
+  </app-movie-list>
+  <app-series-list *ngIf="currentView === mediaType.SERIES" 
+    [filters]="currentFilters"
+    [series]="series">
+  </app-series-list>
+</div>

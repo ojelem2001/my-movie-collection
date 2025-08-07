@@ -1,0 +1,43 @@
+/* Общие переменные */
+:root {
+  --transition: all 0.3s ease;
+}
+
+/* Базовые стили */
+body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Roboto', sans-serif;
+  transition: var(--transition);
+  margin: 0;
+  min-height: 100vh;
+}
+
+button.primary {
+  background: var(--accent);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Тема Netflix (тёмная) */
+.netflix-theme {
+  --bg-primary: #141414 ! important;
+  --bg-secondary: #222;
+  --text-primary: #e5e5e5;
+  --text-secondary: #b3b3b3;
+  --accent: #e50914;
+  --card-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+}
+
+/* Тема Letterboxd (светлая) */
+.letterboxd-theme {
+  --bg-primary: #f8f9fa;
+  --bg-secondary: #ffffff;
+  --text-primary: #212529;
+  --text-secondary: #495057;
+  --accent: #00a862;
+  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,55 @@
+<div class="filters-main">
+    <!-- Поисковая строка (теперь в отдельном блоке) -->
+    <div class="search-wrapper">
+      <div class="filter-group search-group">
+         <label for="search">
+          <i class="search-icon">🔍</i>
+        </label>
+        <input
+          id="search"
+          type="text"
+          [(ngModel)]="searchQuery"
+          (change)="applyFilters()"
+          placeholder="Поиск.."
+        >
+      </div>
+    </div>
+
+    <!-- Основные фильтры -->
+    <div class="filters-row">
+      <div class="filter-group">
+        <label for="genre">Жанр:</label>
+        <select id="genre" [(ngModel)]="selectedGenre" (change)="applyFilters()">
+          <option value="">Все жанры</option>
+          <option *ngFor="let genre of availableGenres" [value]="genre">
+            {{ genre }}
+          </option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="decade">Года:</label>
+        <select id="decade" [(ngModel)]="selectedDecade" (change)="applyFilters()">
+          <option *ngFor="let decade of decadeFilters" [value]="decade">
+            {{ decade }}
+          </option>
+        </select>
+      </div>
+ 
+<!--
+      <div class="filter-group">
+        <label for="year">Год:</label>
+        <select id="year" [(ngModel)]="selectedYear" (change)="applyFilters()">
+          <option [value]="0">Все годы</option>
+          <option *ngFor="let year of availableYears" [value]="year">
+            {{ year }}
+          </option>
+        </select>
+      </div>
+    -->  
+      <button class="reset-btn" (click)="resetFilters()">
+        Сбросить фильтры
+      </button>
+    </div>
+    
+  </div>
