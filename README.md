@@ -38,7 +38,7 @@
    git clone https://github.com/ojelem2001/my-movie-collection.git
    cd my-movie-collection
 2. Установите зависимости:
-	``` npm install
+	`npm install`
 3. Запустите приложение:
-	``` ng serve
+	`ng serve`
 4. Откройте в браузере http://localhost:4200

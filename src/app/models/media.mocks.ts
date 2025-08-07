@@ -1567,671 +1567,1869 @@ export const MEDIAS_MOCKS: Media[] =
       "genres": ["Musical", "Romance"]
     }
   },
-  {
-    id: 21,
-    title: 'Выстрел в пустоту',
-    originalTitle: 'Shot Caller',
-    year: 2017,
-    genres: ['Криминал', 'Драма', 'Триллер'],
-    description: 'Успешный бизнесмен попадает в тюрьму и вынужден стать криминальным авторитетом, чтобы выжить.',
-    posterUrl: 'https://kinopoisk-ru.clstorage.net/d29GX8402/d97dbfeSwH/uZUJqETOMio-oYTfxTY6MG86xPmFHVRK40RFFNerXb4IE-7d_0GfxCnyRIkFoMkgXB-2sh2sCcUWM2vfHmRlBavBTvEOjn5_a_2ZlpQgamAnS_XdsHBsYMUgbSnt8xn-Ekq-hL8DkZ1qqVrLQcauNTY96oFA7XmYcX1eoXoOVj6DoyuMcfN_EzWg-MvRFBUzb13b3pNcZmr9Hn0F4sgJyG9Ao6ykMImGU4EX-0PYuG8dEMmmRe9XkW5vW5NuNEoLhpMUi2PWUjUqluvs3hovPWNZxOmdQVFp_C9LC-LAGsp9T7SYghasnFuIP_hV8J5aHDXFmFb4V75iXmupfRxhC4uCLJtQz3AAEoPs3PU_NBtzTt7JhlBjfMYETxD7yjr5WU6-hqAhvZtbuwLtY9CbfiIc3rRmzl6RdWFVlWQbZRKuoCqxfM9KETmWwf7vGyQff1nb8JtRW3rVBHIkx8o-7mRXnIO1ObikS5A39Wf7iFoDAOeXXu1Sv25TfalkGWUjnbMzkWzTRjU7pujgwws9FltH_N6VS0Br_ixGMffVAeBIWI2Hmj2ppFSnMvVHyahFIC7dql31RqNlX02uZDNABbieGq9960g-FrvbzMk-LCBGQez9l3ZGV9ADeS7S8xjFX22NpKEapKdApxvoZ9yfeQ8vz4Rm-XeEVmdbpnkOVy2CgDq7TPhQEDe85N_PIBc_WnLLzptZY3zGLEkNyfE8xGhSkLySGLGuUZgF1GbPunIlIOSAWtZGhlNqfIJJDHMBiJg5pnrTRQYpg9LoxTMrFG1h48S_Wl1GwA1cDvTKG8t5UIKMtSKWmU2DJN5T6rx0Nzj5q0jyS4VVbGeDaiRTNryiH7hz1mUpOLXI6eEiDBJQVuXpiXRxTdoaTCTV8zTMU0Sfhpc2p7N2hBvPc8q5cyI447d-3USEfW5-llUxSiKghyqZU_xuCxyk_Pf9MSwFU1b8zYVgS0bFAmk37OoEwlhJhqO7ArGmULsfyFPtp1AIP-GXQNRzlm9oVYhGBGsCl7cvgGP0VjIym8_cxiAsEGdc2dObWFV_xB9-GPbCHvhzSq2rmwmEs26lLs15yrN4OxzinWbOUJdCSU2ydBNOHLetC4NazF0qFZfZ0PUOHCx7Ydz_plRfVcUtazXQwgbKVEqeopMFpqRLkifWV8CcQRoP_7ZH0HGfUGBFrVgPWSmWtzmEetRkNx6Z49TMOjcce2bN34B8SWvQA0wT9dIA_HdxnYeFG5meSa8R43_7kGchPuiUZv5tj35EXrdAFGsJjpotsWH0RCAom9DH6R8vDENw8-meZnFs5BFhCuXFIuJ7dp2-tSKQuHSJBM1B3b1CDQzlmVv9bo9xaHuDagRiApygNIJc0FgsPaHk5Mw2Bh58cd_4m2JwQtYNayn18SjFcFWQh7IitLNDkjPsZsCccgo5_L5u5m6QZl5Aq0UZbi-4ug-BePxvBBOz-8zcARAZVG3k3ZlBRHfaGWEX-s0I61t1nJOUPqecVYcYwH7AlEYoHMKkTdNtpUlZbqVmAVILopcovlPXbiExmObW8j0QGFlZ2_O7WWtYxwFaMfPwAuxTVY2zohavnnShENZZ1bZUORPrtk76eYJlR1uCaTJKKL6bK45i_nMOILji588VLA98ceXkhXhZbNIuQgrS6xrrdka9gKMZhIBLiAXKd9a8VxQtx6NaxUWFa3xotVYhcTS5hSyLXN9qEy6W3efMAhYwekbf27x5Z2DnAk4WwOgm2XdHjpyEHJ2OaoEV1Hn0lEUMHfeyQNFlsEZDW4l6P1sSqaccuXLXcw0Ylt_w1xY7H3B6wvGFRlh14QZuNM_pAM9yRIGtnTWJjHiHGPdT3ZB4GjjIikTHcpZTWU6xYAZ1DYuAFJ936nckM5Tw39QpBzhGc-nuskt8Q9EZaAbF_CPBf2SumLw9jbNLsRf0RdSjWyc57b5C9VGzY0h5glYlZg61jRisZddRMTW9--zXHgQyYWTh-LNfVGfdC0QV7N4b_lVPlYKkFLGkTpM29X3wt34MA_e2fPhGk1JfYaBoPFMOjpIlgGzzXiY9i-bCziEXDEJu7MaXV1lV5TN9N8_OBe9xaa6mhTCRlleHP_db86FHBRnBl3baaLZqSW2MegxBDby8PoNV9m8zPJX86_4cJCVtZ8DRvl1SZ-cLaQLp6znFekCZjqgclINjmgXuduGoeBQX4qRt_VORY39KpEI1UC-cjBOPfdJpDhmn0NTGDDc_XWb70qFoVmzWHX4j9twi-l9HhK-AB5i9bqcCzXLot20KKOO2attOolV_WYZ0PFoSoacYkFT-aDIcnMfMxjMYJEBW-cy4SHVs3jBCJ9XpPONwV4aHuQefsneEJulyy6R5IxHqv2n7dZtye0arXThIEKiMEKF_0kUCOKTCzcsABwB4XsnGtHRyWeIRaC7m9yDMfXazhaAxtbFPjwbXWt-zZgwTwpJo-XCfdFxCnUEEZyuNhhiZbtZmCzWz5PzqITcCdFrd-6hAfnvfP34zwfYc8ElSsIuXFbWZe7of3Hr-ulo_K8upSdVOhHJZRo9hElsyqYULkUbvXSYSu-Te3BcoMGVD4MW0VHhixiB6J_HBAs1NZJSYpzqngmq0IfFzy5dHOxH7m1fuUqVicl2ffjVCCJWhB5Fx70giOKDB4c8BPTBicdvLpGFxVfAkTyrO_D7vRnKmq5M_tqNPoS7AXuG1QxQd_4Ff6l-NZmddo38fVQqnswene_NxKi6n-er0IBI6dnn_5ItGZFn_IWQ2yNcswkpRrqGGGIy1bIsw8X7ttmM9EsG-SfxWk0J8d5BjDkEkprI7kHzfajQPq9_1wCsMD0daxt-fcVZd3SdPC-DwPOFpb72jliutumyqMth7_4N0FxDHsHr3eZFQblyfdhh7NoqFEaNs33IXNYX67NQsMjtBZNv4uWpUZ_w7eA7wwQTLSkaQhqEwtIdWsxXwY96FezsdxopD5U2ybHs',
-    type: MediaType.MOVIE
+    {
+    "id": 61,
+    "title": "Выстрел в пустоту",
+    "originalTitle": "Shot Caller",
+    "year": 2017,
+    "genres": ["Криминал", "Драма", "Триллер"],
+    "description": "Успешный бизнесмен попадает в тюрьму и вынужден стать криминальным авторитетом, чтобы выжить.",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/9/1/8/9/269189-shot-caller-0-1000-0-1500-crop.jpg?v=bd5ee04662",
+    "posterUrl2": "https://a.ltrbxd.com/resized/film-poster/2/6/9/1/8/9/269189-shot-caller-0-1000-0-1500-crop.jpg?v=bd5ee04662",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt4633690",
+      "rating": 7.3,
+      "genres": ["Crime", "Drama", "Thriller"]
+    },
+    "kinopoisk": {
+      "id": "1045589",
+      "rating": 7.4,
+      "genres": ["Криминал", "Драма", "Триллер"],
+      "description": "Успешный бизнесмен Джейкоб Харлон оказывается в тюрьме после случайного убийства. Чтобы выжить в жестоком мире за решеткой, он вынужден стать криминальным авторитетом. Фильм основан на реальных событиях."
+    },
+    "letterboxd": {
+      "id": "shot-caller-2017",
+      "rating": 3.5,
+      "genres": ["Crime", "Drama", "Thriller"]
+    },
   },
   {
-    id: 22,
-    title: 'Остров проклятых',
-    originalTitle: 'Shutter Island',
-    year: 2010,
-    genres: ['Детектив', 'Триллер', 'Драма'],
-    description: 'Два американских маршала расследуют исчезновение пациентки из психиатрической лечебницы на отдалённом острове.',
-    posterUrl: 'https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
-    type: MediaType.MOVIE
+    "id": 62,
+    "title": "Остров проклятых",
+    "originalTitle": "Shutter Island",
+    "year": 2010,
+    "genres": ["Детектив", "Триллер", "Драма"],
+    "description": "Два американских маршала расследуют исчезновение пациентки из психиатрической лечебницы на отдалённом острове.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/film-poster/3/1/3/3/8/31338-shutter-island-0-460-0-690-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt1130884",
+      "rating": 8.2,
+      "genres": ["Mystery", "Thriller"]
+    },
+    "kinopoisk": {
+      "id": "462360",
+      "rating": 8.1,
+      "genres": ["Детектив", "Триллер", "Драма"],
+      "description": "1954 год. Федеральные маршалы Тедди Дэниэлс и Чак Оул приезжают на остров Шаттер, где расположена психиатрическая лечебница для особо опасных преступников. Они расследуют исчезновение пациентки, но вскоре понимают, что на острове происходит нечто зловещее."
+    },
+    "letterboxd": {
+      "id": "shutter-island-2010",
+      "rating": 4.0,
+      "genres": ["Mystery", "Thriller"]
+    },
   },
   {
-    id: 23,
-    title: 'Маяк',
-    originalTitle: 'The Lighthouse',
-    year: 2019,
-    genres: ['Ужасы', 'Драма', 'Триллер'],
-    description: 'Два смотрителя маяка в конце XIX века постепенно сходят с ума от изоляции и странных событий.',
-    posterUrl: 'https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg',
-    type: MediaType.MOVIE
+    "id": 63,
+    "title": "Маяк",
+    "originalTitle": "The Lighthouse",
+    "year": 2019,
+    "genres": ["Ужасы", "Драма", "Триллер"],
+    "description": "Два смотрителя маяка в конце XIX века постепенно сходят с ума от изоляции и странных событий.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/film-poster/4/2/2/8/4/42284-the-lighthouse-0-460-0-690-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt7984734",
+      "rating": 7.5,
+      "genres": ["Drama", "Fantasy", "Horror"]
+    },
+    "kinopoisk": {
+      "id": "1219149",
+      "rating": 7.1,
+      "genres": ["Ужасы", "Драма", "Триллер"],
+      "description": "1890-е годы. Двое смотрителей маяка — пожилой Томас Уэйк и молодой Эфраим Уинслоу — оказываются в изоляции на отдаленном острове. Постепенно их рассудок начинает давать сбои, а окружающая реальность становится все более пугающей."
+    },
+    "letterboxd": {
+      "id": "the-lighthouse-2019",
+      "rating": 4.1,
+      "genres": ["Horror", "Drama"]
+    },
   },
   {
-    id: 24,
-    title: 'Невероятная жизнь Уолтера Митти',
-    originalTitle: 'The Secret Life of Walter Mitty',
-    year: 2013,
-    genres: ['Приключения', 'Драма', 'Комедия'],
-    description: 'Скромный сотрудник журнала отправляется в невероятное путешествие, чтобы найти пропавшую фотографию.',
-    posterUrl: 'https://kinopoisk-ru.clstorage.net/d29GX8402/d97dbfeSwH/uZUJqETOMio-oYTfxTY6MG86xPmFHVRK40RBCc3rHuZVUrzHuR6fk3ztQI4DrcEjX1XtsRioBMYTPCKGGWFhS_vMG_0bhH9-av-dx5RraW0vJMv5wgscHKdZUlSWtDHWfWCVtZ8ht7NQjAPOQ7eafAAV_rxG7FfbVn5QuAwORAKdmw-MW-hqFhyE8vP8FAkDUlPk_6VdQX36HGYrxfwn-H5Dub-VGYmjfIM43nXKkGEoDs2kXdV_lmZ8Tq5WJWkhup4NolL3eBMukMjvyRE5PFVBwdKDQndu3RNoEcvwI-dJTaSIlhi4lXKDMM132J92HCjrgUfddr5lamaIYyRMLYSNGqJ9-0kjFIPgxMkcKARFctjwtnpiae04TQrt4DT9aVa1uoMik5FpmjrtRPyefAIK3JBA3UWDcFxGjUcaZTaovSyrUux2HSia58DQOQoCb17YyqdRd0TPImka6ewj-FBLtIKFMZOsXaY66VPBh14HH8SVf81utmhYbZ5jO3kPi4UPp3z3RDUUmuXA4QoZG09OxMaDU0dt0Q55A-DIPd9-Ra6ZlBq7mEiWJdZd7YhPAzDAhH_SWbNoeF--fBhXNbaGF7Ng_EgFE5rP5ccvNDJxX_zIiH5aXv0ETBLW1TvPXUeTn6g0lKdXswPPePq9TyAL54l8xlmadVhKiUA3VieYvRuCR89wExuH8vLvFSoSZW7v0KZfXWHuAlIpyckI6G5LvLqDIruXdKgB63nNglI4OOWcdddmhElZWaxLHVkMnIE0s0XKfTQ_t_DWwx8yEXhYxMWwQWJX2QhBFeL-G8Bkb7-EuSSagneVOsx23IBACB_fu0LLfaVDbHyqTQ9BEbeTEL5GzHsvPpTY9vQrCDdmUcHln1BUTdgsUDLkwyzGSVmRqLI-jZJdtAPjcfaUXQI9y4po8HqaUkxcr0oaQQurpT-xR-R5Niurze_gNy0CR3Hr7r10RXnGMEMS88As321VhZK5IZW3To0a03_9mUQnEf-cfdZFnlVse7FpMEYJi5s2hlX2fx01uPjOwAAdB15B49aEWnpK7QtSEub0JvpzS72MgCCIoGGXMslF1ppvLzH0qWjoW69QRlylQQNlCoG9LKVU214FD4rv694gByNdeNvdnH12XOE4fCLa6Bv_X3axhqohurVMsTLRd_GaXCY5-It_zWymS2hWingidheqnDKEXMl3DRCm8_zrAR0RWljD5IF2eGblAUgJ6ugc7n9QmZCUNJSSapQi10HSoV8DL-a0Rc9RkH5AbYZeGUcAiL0cmEznUxYKvujOyxkwBW9D48SWQHpV9iRtEfrQCtBJToOokwCGv3OENfVf3qZfOh_fvWPyd4VQfkurezV1DYWAH5tM6H8zPpT4x8ALChxcfsfYmlVAYdUBRDjo7wv8WEuHqb0ymrVQlAH_eNWFUgMY35loxWyycVlWiksyQBSitQSbU_9JCBa75cvtLxAnX1rr77J7Un79EXMu78cXx31JpJ2IPo6_bps931b-pV4XPsOKR9N5mV1BVoJ_EGUquJYxmGbQTiYYmP33yTU9AGBxwO6XWXlj5z9PLu7KI_hTa7yypyOWhEiSANVR9oVPNwjrgkXyX5FLZkOgbQFqA6qVGIxB_FATP5fO7-opMQNQQOnzuEhZZ9YCZxL57wvGRFWdgJM2uZxzsxvNVtOWfwQJ5KlbzXaEV0hAqm4sVC-_gSewRvJrIAio3dT2Li8EVX7I6qVGd1jWAXAoxuk8_HtsnL6fA5WQb6EY8WTSl0wYLuGwVex_lElGYoJ8NGQfrpszkHPfVBM0hMP-0D4NNGdQwPO7cHdawRpkBenjAOFRVaOBigWRsE2uGddy15RDKTfIpFf-eZlqbEuGQSJBIJafJYdVyk4GDJ760M8cKjxBVf33klt1de4ZWznO1QnKTmKupbw1jrZ_pAz0fNq0bBwWwKBozU-WaXpCtWIfQAWimRekcPpfMT-o2cPMIicwckfA0YddXH7dGmw6xPIewlhjuo2YOZyabI0uzEPwn1cGDumcf8htt2hCZqFHNHofqqcas1DLSCkdlsD2zBk4DV5O5N6QVWpj8wNTKfrRFM9mR7KAqgGko06uPtJS1LlsIi_NvE3Reb5qZGW3fj1gKYutOJ11814lMYTw5M8rFhZdd-HvhVR0edozbhrT_h3jcW64i5gDnLd7iBvueN-QWwoC4blY5WSEc0l3vkEsbgq4th-mUvpoAhm8yfXtCyY7UV_F6bhxRlXlC34Jyc4c2HJxjY-TMoqgWpcs9Uf6l0YrKvq1ZuhZg1BNfqFUMlELqrE5u2HMaBE7isD_0DYNME526eiEdH1C_QtBJtLTLNpsaK2skzqnnF60Gete1YdEAxP6smnxeqd0TV2yQBtoAqOyGYBY62wOFqPE7dI_Jjh_XcXFtFBFR_wGcjn26yTqZmSRq6YGhrZXhwf3cdimcQEKzJhqyXGHSmVJpV80aiqOsxuFXO1LCiC_-MLpGiwwR0zB5r1dUmHNJ1MJ9Ocg_lt4paeEO6igSqAGy03sgnIPPeiYQv1EnkFFaKxjB1IjtZI3u0frTg4yn-7-8D4vI09k-N2Qelph7xFlFsb2OcNlZLGhnSK3pF6QMdVw6LRWHA3HilnsSqBsTF2BfgNoE4eMDKdm-2UVIoDJ58oCCy9PU_jIlFBBRNACcwPG8Qv4a3SEqKoUs5FTrwzpUuOiZC85wpt4yV-vXWF3o3osZBedhAiqTv9wFR6B4_DIMBkveVnk8ZxGRnzbOVIszOUD3ERbo72mG7a6T6kn-3_vgWwlLOWhbup1sWxBe6BaBWspopIeo1Dbaz8tnfLk5jEYE05eyOqCZ0paxA1ZMvnUIOV_T5SPojmwkXKBAOtczL9_JzzWgGHqVLNFRGmVTS9pL6yhFYxSyXkUIojk3vQdLzl9TsjyoV1kf90ZXgzN0h74WGmPjZgYrKZ3kTHTdu-WUgILzZlc0E2UbVw',
-    type: MediaType.MOVIE
+    "id": 64,
+    "title": "Невероятная жизнь Уолтера Митти",
+    "originalTitle": "The Secret Life of Walter Mitty",
+    "year": 2013,
+    "genres": ["Приключения", "Драма", "Комедия"],
+    "description": "Скромный сотрудник журнала отправляется в невероятное путешествие, чтобы найти пропавшую фотографию.",
+    "posterUrl": "https://kinopoisk-ru.clstorage.net/d29GX8402/d97dbfeSwH/uZUJqETOMio-oYTfxTY6MG86xPmFHVRK40RBCc3rHuZVUrzHuR6fk3ztQI4DrcEjX1XtsRioBMYTPCKGGWFhS_vMG_0bhH9-av-dx5RraW0vJMv5wgscHKdZUlSWtDHWfWCVtZ8ht7NQjAPOQ7eafAAV_rxG7FfbVn5QuAwORAKdmw-MW-hqFhyE8vP8FAkDUlPk_6VdQX36HGYrxfwn-H5Dub-VGYmjfIM43nXKkGEoDs2kXdV_lmZ8Tq5WJWkhup4NolL3eBMukMjvyRE5PFVBwdKDQndu3RNoEcvwI-dJTaSIlhi4lXKDMM132J92HCjrgUfddr5lamaIYyRMLYSNGqJ9-0kjFIPgxMkcKARFctjwtnpiae04TQrt4DT9aVa1uoMik5FpmjrtRPyefAIK3JBA3UWDcFxGjUcaZTaovSyrUux2HSia58DQOQoCb17YyqdRd0TPImka6ewj-FBLtIKFMZOsXaY66VPBh14HH8SVf81utmhYbZ5jO3kPi4UPp3z3RDUUmuXA4QoZG09OxMaDU0dt0Q55A-DIPd9-Ra6ZlBq7mEiWJdZd7YhPAzDAhH_SWbNoeF--fBhXNbaGF7Ng_EgFE5rP5ccvNDJxX_zIiH5aXv0ETBLW1TvPXUeTn6g0lKdXswPPePq9TyAL54l8xlmadVhKiUA3VieYvRuCR89wExuH8vLvFSoSZW7v0KZfXWHuAlIpyckI6G5LvLqDIruXdKgB63nNglI4OOWcdddmhElZWaxLHVkMnIE0s0XKfTQ_t_DWwx8yEXhYxMWwQWJX2QhBFeL-G8Bkb7-EuSSagneVOsx23IBACB_fu0LLfaVDbHyqTQ9BEbeTEL5GzHsvPpTY9vQrCDdmUcHln1BUTdgsUDLkwyzGSVmRqLI-jZJdtAPjcfaUXQI9y4po8HqaUkxcr0oaQQurpT-xR-R5Niurze_gNy0CR3Hr7r10RXnGMEMS88As321VhZK5IZW3To0a03_9mUQnEf-cfdZFnlVse7FpMEYJi5s2hlX2fx01uPjOwAAdB15B49aEWnpK7QtSEub0JvpzS72MgCCIoGGXMslF1ppvLzH0qWjoW69QRlylQQNlCoG9LKVU214FD4rv694gByNdeNvdnH12XOE4fCLa6Bv_X3axhqohurVMsTLRd_GaXCY5-It_zWymS2hWingidheqnDKEXMl3DRCm8_zrAR0RWljD5IF2eGblAUgJ6ugc7n9QmZCUNJSSapQi10HSoV8DL-a0Rc9RkH5AbYZeGUcAiL0cmEznUxYKvujOyxkwBW9D48SWQHpV9iRtEfrQCtBJToOokwCGv3OENfVf3qZfOh_fvWPyd4VQfkurezV1DYWAH5tM6H8zPpT4x8ALChxcfsfYmlVAYdUBRDjo7wv8WEuHqb0ymrVQlAH_eNWFUgMY35loxWyycVlWiksyQBSitQSbU_9JCBa75cvtLxAnX1rr77J7Un79EXMu78cXx31JpJ2IPo6_bps931b-pV4XPsOKR9N5mV1BVoJ_EGUquJYxmGbQTiYYmP33yTU9AGBxwO6XWXlj5z9PLu7KI_hTa7yypyOWhEiSANVR9oVPNwjrgkXyX5FLZkOgbQFqA6qVGIxB_FATP5fO7-opMQNQQOnzuEhZZ9YCZxL57wvGRFWdgJM2uZxzsxvNVtOWfwQJ5KlbzXaEV0hAqm4sVC-_gSewRvJrIAio3dT2Li8EVX7I6qVGd1jWAXAoxuk8_HtsnL6fA5WQb6EY8WTSl0wYLuGwVex_lElGYoJ8NGQfrpszkHPfVBM0hMP-0D4NNGdQwPO7cHdawRpkBenjAOFRVaOBigWRsE2uGddy15RDKTfIpFf-eZlqbEuGQSJBIJafJYdVyk4GDJ760M8cKjxBVf33klt1de4ZWznO1QnKTmKupbw1jrZ_pAz0fNq0bBwWwKBozU-WaXpCtWIfQAWimRekcPpfMT-o2cPMIicwckfA0YddXH7dGmw6xPIewlhjuo2YOZyabI0uzEPwn1cGDumcf8htt2hCZqFHNHofqqcas1DLSCkdlsD2zBk4DV5O5N6QVWpj8wNTKfrRFM9mR7KAqgGko06uPtJS1LlsIi_NvE3Reb5qZGW3fj1gKYutOJ11814lMYTw5M8rFhZdd-HvhVR0edozbhrT_h3jcW64i5gDnLd7iBvueN-QWwoC4blY5WSEc0l3vkEsbgq4th-mUvpoAhm8yfXtCyY7UV_F6bhxRlXlC34Jyc4c2HJxjY-TMoqgWpcs9Uf6l0YrKvq1ZuhZg1BNfqFUMlELqrE5u2HMaBE7isD_0DYNME526eiEdH1C_QtBJtLTLNpsaK2skzqnnF60Gete1YdEAxP6smnxeqd0TV2yQBtoAqOyGYBY62wOFqPE7dI_Jjh_XcXFtFBFR_wGcjn26yTqZmSRq6YGhrZXhwf3cdimcQEKzJhqyXGHSmVJpV80aiqOsxuFXO1LCiC_-MLpGiwwR0zB5r1dUmHNJ1MJ9Ocg_lt4paeEO6igSqAGy03sgnIPPeiYQv1EnkFFaKxjB1IjtZI3u0frTg4yn-7-8D4vI09k-N2Qelph7xFlFsb2OcNlZLGhnSK3pF6QMdVw6LRWHA3HilnsSqBsTF2BfgNoE4eMDKdm-2UVIoDJ58oCCy9PU_jIlFBBRNACcwPG8Qv4a3SEqKoUs5FTrwzpUuOiZC85wpt4yV-vXWF3o3osZBedhAiqTv9wFR6B4_DIMBkveVnk8ZxGRnzbOVIszOUD3ERbo72mG7a6T6kn-3_vgWwlLOWhbup1sWxBe6BaBWspopIeo1Dbaz8tnfLk5jEYE05eyOqCZ0paxA1ZMvnUIOV_T5SPojmwkXKBAOtczL9_JzzWgGHqVLNFRGmVTS9pL6yhFYxSyXkUIojk3vQdLzl9TsjyoV1kf90ZXgzN0h74WGmPjZgYrKZ3kTHTdu-WUgILzZlc0E2UbVw",
+    "posterUrl2": "https://a.ltrbxd.com/resized/film-poster/3/0/0/8/2/30082-the-secret-life-of-walter-mitty-0-460-0-690-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt0359950",
+      "rating": 7.3,
+      "genres": ["Adventure", "Comedy", "Drama"]
+    },
+    "kinopoisk": {
+      "id": "677683",
+      "rating": 7.8,
+      "genres": ["Приключения", "Драма", "Комедия"],
+      "description": "Уолтер Митти — скромный сотрудник журнала Life, который проводит дни, мечтая о приключениях. Когда пропадает важная фотография для последнего выпуска журнала, Уолтер отправляется в невероятное путешествие, которое навсегда изменит его жизнь."
+    },
+    "letterboxd": {
+      "id": "the-secret-life-of-walter-mitty-2013",
+      "rating": 3.6,
+      "genres": ["Adventure", "Comedy"]
+    },
   },
   {
-    id: 25,
-    title: 'Весёлые каникулы',
-    originalTitle: 'Get the Gringo',
-    year: 2012,
-    genres: ['Боевик', 'Драма', 'Триллер'],
-    description: 'Российская комедия о приключениях компании друзей во время летнего отдыха.',
-    posterUrl: 'https://kinopoisk-ru.clstorage.net/d29GX8402/d97dbfeSwH/uZUJqETOMio-oYTfxTY6MG86xPmFHVRK40RFFNerX78IGeLa41zMlSnyRIkEqMgtW0i6sEyoC8EUamnRHmI7B__DSKxT3yx3OLSFlZRoJmEiJPXDsHNxcNg7Yyfqyhn-Sw-8g74cjptwsR-XRuyuSk4iybd98E6wSV55tmoAWzOXuCqfc_pSJA692PTJLRIecWzj7bNQXXrSA103xsUi7n1ytp6WB72Da4g32nbusFwUCeSUWvVMnkBBa7NYFGEvor0aoHTodwkoou7n7iIcJH9g5_KEXkBN0QJsAcjFKv1_YLmJoiGbpnGAPvJ1-Jh6IQjBmGTmW55vTVqDYgdJBKKwC5hk224rHZr74N4JOT9ZcPDopEVRf8Q4RwXT3CDdTES4g7wDrLd2gA3PYM64fwU26INI1m2XQFplvV4eTgC7lSmeTvduEQyx7s38Ex0vXXzn7Z1YUEfCK0c45-Ag2Vt5oaG5FrSySZAm-njKk2whF_S6a-5Om25BV5ViHkwAiqY6h27nch0os97k4j8NNlRY-cqzVkpc0wBvDPLQP-ZVVa6wvTmwo0mPEf946qFMPjTagFbtVo9ySlulZR5mJayDF65Q9koTI57D1841OCdiRf_akFR3Wu8uQDPt9Rn_cEKbsJ4Cl65KmxHWZcq0ewIb25J41lq-VXljs20DWzKEuQmORMdZCw2_xOjdMyYcfVnM_aNYWH_EOG8Dzu4b23F1pK2GMZW7Q4ouyFnLp14JMdS5fOp1j1d8bpRJM1kWqLMRjVnxch4bofve6jk1IFZu39WpfFtB_j5OFs3TIPx-ZKa_thavnHSWNelT_oJYDyPMpFf4UYJUemiPSBBxNp-HK6tH-Hc-NLDNxOsdJAdQU-jThEp1bfUkWQbn8hnTeU6yorw0u61erTLWQt6iXQg2zL5Lzn6NVVJqll0vZC-Lmw6eZthdNRaU3PD1ATcnR1DoyqBGYVf-O0Ej9MsA43dFv7uZGI-7S4sN0kX-hUMrHMu8a_B3ukdAbL1DPFEOq6w-m3_oVQ0vuuPD3jomJ1Jk4u--WFlJxzpcNNvRKPlNbryQkTiEjl61E-NA1KJXAy_ov2HWbZlGbU2leQ5GK7WMJL980W0GN53v1dIJCBdueN_qkmVVQ-07biH29yjhf0m8o5gwiKxJkCTqW_qoeDoO-6JK93O4Tn9krWYiWjyArT6Ne_F1PyqW4e_WMDw8XnjY-7JDfVXTLkAG0NI450lqh6C9JpaTc5IZ3G7Sk3QcNcq1aNZdpF5RQLZ8OkEOoLUTmU7qVR89oOPcxRUZJE5AzsWEXWdt1BpSK8nCL8VXZoCghBavmlWvP8lA7LVZORn4uGXrXqdeXmyTSBBRB6unKYB913EDMbXZ6OYwMA1cf8_plVhjbPooTiHq0hvPcG2jrb0Rr75emCT-YcuoeAkezaFC3kWnQUlaqGA_TAuGgzO7fvNdNBmby_fOIAcbW1fT0rBaQFjPJFor1N0n715Gg6GpN7OtcY4x1U3TqHA9POifWP1wpHRmXYZuHFQ3opkenEHYdjU8ueDq1A47G1pa5-2eeFh34DlCEPLUGuVZTqOwiQGbpXOvF91b9L1SLy3ntkr-WbBTSkOzSRNnL4GFEp9x6V8oE6jA7uUzEydNf8_TiUZ5RdQsbQjJ9QH9XmuwgLoAlI5tkD7IR9q-WCwA2Zpf6maMVER4gH4sdBSdggyYdNd-MQ6m7tHlMAQdcnn46bZ_eHvYGUEE1ecCwWxqsbOmJ5GXY7E32FnUnHA-GOmqTvByrGFpR7NCAGo-u5IuqEb5digQkO7T8isQMF1zxPScRkdEzR9FJPfoA-d6b7K8lz64g2GjMdV6_rV0Aw7MlXb0ZLtHfF2mehpTEKSwCaBg_EssObvs_N0oLwx6Rc3fg3FKYPsvWiLF4hbEdGKSk6IfsIdekAfaeei8RyAzzbBC8laYYkxMkUkscAOnjgSsU-52Ciy9xffuKxgPcGLa15VwXkjfI0gO1ss0_EtIuai4B5m7SZUl-3jQmFMFGPeqSsxbj0J9W4lrEmk2p7UbkX_nUgU7tfPqwDInHE5B0NqrVFZF7RtwN_ToJOJabJ-TnCa9m3uMMfJ69ptFPBHtnGvGeaFnRU2FRwBZJKSHNYp83lc0LrTt8OkCGi9nbtn2vH1cTt8ZSCPBzgHecGe2pLQLkZ5uuCzIY9uJTAMA479Y3V6aQEx7om84YDWGpwWncPZzMhOR39zWOgo8fV7Yzb9iaUrUKF404NE2xU9CsbmVI4qSULURz0DfgFMWHty-Stp4h3N6e7FNDmk_u5ourG_fXzMvlOTLzjo1E2ZD6M-he0lp1CBzCOTyA9tWbaG7vRqKlV-sMutk36NAAjflt0PZWLxKXX-uYCdtLbmTBaRe9HMeH7Dczs83BgxCe-D_q3d1buEcUiLtwR3HeWCAjr8DvL9clDnLWve3Vx0Y559u2Fq5TltYqlY7UQKCtg-sZuV3PRa9y-j-Fic8QHfk65ZrQWLDIXw08OYc-0VUpI2xNJi_dKAM0lHXll4hK9-WVfl2h1VdXa5EG0c-m5IMv27NTgY7msPo3CARI3Jm_daod1Vk2jhjMOTWK-V4UJKpogS3rW-xAux83qNzPC_lpmfnTZt0TXa1VARgJ6GuKLNu-k4TP7DYzeMzBzZyYc_tpmdgbe0OZwXp6RbZWluEm5EwsrxOlBfjTfOJUTgA6aJ970mWXEljtWgFSjCjnDqzWPBSKjem3_XoCCYZeHXHyYlIR3jhAWIu9e89y3dXp5ObJZWGWLc9_XzThVIYKeacQvlfn0JteJ9bGVskjZ07j2_3fjEph9PT9zwtB01E5PCyXHBK5SNkBcjHGttUdJmAmTWmp1e3HP9V1pdnDwPkmkzKVLBAf2q0VAxNHp-xDKVc534pCr399u4oKjl5QtrtlXprSN8CeDLN1yvjflewrbwCvb5qjQXYfc62YQAv6Zt280aEY0M',
-    type: MediaType.MOVIE
+    "id": 65,
+    "title": "Весёлые каникулы",
+    "originalTitle": "Get the Gringo",
+    "year": 2012,
+    "genres": ["Боевик", "Драма", "Триллер"],
+    "description": "Российская комедия о приключениях компании друзей во время летнего отдыха.",
+    "posterUrl": "https://kinopoisk-ru.clstorage.net/d29GX8402/d97dbfeSwH/uZUJqETOMio-oYTfxTY6MG86xPmFHVRK40RFFNerX78IGeLa41zMlSnyRIkEqMgtW0i6sEyoC8EUamnRHmI7B__DSKxT3yx3OLSFlZRoJmEiJPXDsHNxcNg7Yyfqyhn-Sw-8g74cjptwsR-XRuyuSk4iybd98E6wSV55tmoAWzOXuCqfc_pSJA692PTJLRIecWzj7bNQXXrSA103xsUi7n1ytp6WB72Da4g32nbusFwUCeSUWvVMnkBBa7NYFGEvor0aoHTodwkoou7n7iIcJH9g5_KEXkBN0QJsAcjFKv1_YLmJoiGbpnGAPvJ1-Jh6IQjBmGTmW55vTVqDYgdJBKKwC5hk224rHZr74N4JOT9ZcPDopEVRf8Q4RwXT3CDdTES4g7wDrLd2gA3PYM64fwU26INI1m2XQFplvV4eTgC7lSmeTvduEQyx7s38Ex0vXXzn7Z1YUEfCK0c45-Ag2Vt5oaG5FrSySZAm-njKk2whF_S6a-5Om25BV5ViHkwAiqY6h27nch0os97k4j8NNlRY-cqzVkpc0wBvDPLQP-ZVVa6wvTmwo0mPEf946qFMPjTagFbtVo9ySlulZR5mJayDF65Q9koTI57D1841OCdiRf_akFR3Wu8uQDPt9Rn_cEKbsJ4Cl65KmxHWZcq0ewIb25J41lq-VXljs20DWzKEuQmORMdZCw2_xOjdMyYcfVnM_aNYWH_EOG8Dzu4b23F1pK2GMZW7Q4ouyFnLp14JMdS5fOp1j1d8bpRJM1kWqLMRjVnxch4bofve6jk1IFZu39WpfFtB_j5OFs3TIPx-ZKa_thavnHSWNelT_oJYDyPMpFf4UYJUemiPSBBxNp-HK6tH-Hc-NLDNxOsdJAdQU-jThEp1bfUkWQbn8hnTeU6yorw0u61erTLWQt6iXQg2zL5Lzn6NVVJqll0vZC-Lmw6eZthdNRaU3PD1ATcnR1DoyqBGYVf-O0Ej9MsA43dFv7uZGI-7S4sN0kX-hUMrHMu8a_B3ukdAbL1DPFEOq6w-m3_oVQ0vuuPD3jomJ1Jk4u--WFlJxzpcNNvRKPlNbryQkTiEjl61E-NA1KJXAy_ov2HWbZlGbU2leQ5GK7WMJL980W0GN53v1dIJCBdueN_qkmVVQ-07biH29yjhf0m8o5gwiKxJkCTqW_qoeDoO-6JK93O4Tn9krWYiWjyArT6Ne_F1PyqW4e_WMDw8XnjY-7JDfVXTLkAG0NI450lqh6C9JpaTc5IZ3G7Sk3QcNcq1aNZdpF5RQLZ8OkEOoLUTmU7qVR89oOPcxRUZJE5AzsWEXWdt1BpSK8nCL8VXZoCghBavmlWvP8lA7LVZORn4uGXrXqdeXmyTSBBRB6unKYB913EDMbXZ6OYwMA1cf8_plVhjbPooTiHq0hvPcG2jrb0Rr75emCT-YcuoeAkezaFC3kWnQUlaqGA_TAuGgzO7fvNdNBmby_fOIAcbW1fT0rBaQFjPJFor1N0n715Gg6GpN7OtcY4x1U3TqHA9POifWP1wpHRmXYZuHFQ3opkenEHYdjU8ueDq1A47G1pa5-2eeFh34DlCEPLUGuVZTqOwiQGbpXOvF91b9L1SLy3ntkr-WbBTSkOzSRNnL4GFEp9x6V8oE6jA7uUzEydNf8_TiUZ5RdQsbQjJ9QH9XmuwgLoAlI5tkD7IR9q-WCwA2Zpf6maMVER4gH4sdBSdggyYdNd-MQ6m7tHlMAQdcnn46bZ_eHvYGUEE1ecCwWxqsbOmJ5GXY7E32FnUnHA-GOmqTvByrGFpR7NCAGo-u5IuqEb5digQkO7T8isQMF1zxPScRkdEzR9FJPfoA-d6b7K8lz64g2GjMdV6_rV0Aw7MlXb0ZLtHfF2mehpTEKSwCaBg_EssObvs_N0oLwx6Rc3fg3FKYPsvWiLF4hbEdGKSk6IfsIdekAfaeei8RyAzzbBC8laYYkxMkUkscAOnjgSsU-52Ciy9xffuKxgPcGLa15VwXkjfI0gO1ss0_EtIuai4B5m7SZUl-3jQmFMFGPeqSsxbj0J9W4lrEmk2p7UbkX_nUgU7tfPqwDInHE5B0NqrVFZF7RtwN_ToJOJabJ-TnCa9m3uMMfJ69ptFPBHtnGvGeaFnRU2FRwBZJKSHNYp83lc0LrTt8OkCGi9nbtn2vH1cTt8ZSCPBzgHecGe2pLQLkZ5uuCzIY9uJTAMA479Y3V6aQEx7om84YDWGpwWncPZzMhOR39zWOgo8fV7Yzb9iaUrUKF404NE2xU9CsbmVI4qSULURz0DfgFMWHty-Stp4h3N6e7FNDmk_u5ourG_fXzMvlOTLzjo1E2ZD6M-he0lp1CBzCOTyA9tWbaG7vRqKlV-sMutk36NAAjflt0PZWLxKXX-uYCdtLbmTBaRe9HMeH7Dczs83BgxCe-D_q3d1buEcUiLtwR3HeWCAjr8DvL9clDnLWve3Vx0Y559u2Fq5TltYqlY7UQKCtg-sZuV3PRa9y-j-Fic8QHfk65ZrQWLDIXw08OYc-0VUpI2xNJi_dKAM0lHXll4hK9-WVfl2h1VdXa5EG0c-m5IMv27NTgY7msPo3CARI3Jm_daod1Vk2jhjMOTWK-V4UJKpogS3rW-xAux83qNzPC_lpmfnTZt0TXa1VARgJ6GuKLNu-k4TP7DYzeMzBzZyYc_tpmdgbe0OZwXp6RbZWluEm5EwsrxOlBfjTfOJUTgA6aJ970mWXEljtWgFSjCjnDqzWPBSKjem3_XoCCYZeHXHyYlIR3jhAWIu9e89y3dXp5ObJZWGWLc9_XzThVIYKeacQvlfn0JteJ9bGVskjZ07j2_3fjEph9PT9zwtB01E5PCyXHBK5SNkBcjHGttUdJmAmTWmp1e3HP9V1pdnDwPkmkzKVLBAf2q0VAxNHp-xDKVc534pCr399u4oKjl5QtrtlXprSN8CeDLN1yvjflewrbwCvb5qjQXYfc62YQAv6Zt280aEY0M",
+    "posterUrl2": "https://a.ltrbxd.com/resized/film-poster/5/1/5/6/7/51567-get-the-gringo-0-460-0-690-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt1567609",
+      "rating": 6.9,
+      "genres": ["Action", "Crime", "Drama"]
+    },
+    "kinopoisk": {
+      "id": "573759",
+      "rating": 7.1,
+      "genres": ["Боевик", "Криминал", "Драма"],
+      "description": "Американский преступник попадает в мексиканскую тюрьму, где сталкивается с жестокими порядками и неожиданно находит дружбу с мальчиком."
+    },
+    "letterboxd": {
+      "id": "get-the-gringo",
+      "rating": 3.2,
+      "genres": ["Action", "Crime"]
+    },
   },
   {
-    id: 26,
-    title: 'Всё самое лучшее',
-    originalTitle: 'All Good Things',
-    year: 2010,
-    genres: ['Драма', 'Триллер', 'Мелодрама'],
-    description: 'Наследник одной из самых богатых семей Нью-Йорка, сделавшей состояние на недвижимости, влюбляется в девушку не из своего круга. Их романтические отношения развиваются по вполне обыденному сценарию, кроме одного - девушка не знает, что у ее парня серьезные психические проблемы. В конце концов, девушка исчезает, проходит 20 лет прежде чем расследование снова возобновят, что закончится смертью для причастных к этому делу людей.',
-    posterUrl: 'https://kinopoisk-ru.clstorage.net/d29GX8402/d97dbfeSwH/uZUJqETOMio-oYTfxTY6MG86xPmFHVRK40RBCc3rHuZVUrzHuR6fk3ztRYENocksV1W66h6rCcISPCLRHTM7S_vFHPAb3y92af-ek5doO2whLZOlyAAcHKdZUlSWtDHWfWCVtZ8ht7NQjAPOQ7eafAAV_rxG7FfbVn5QuAwORAKdmw-MW-hqFhyE8vP8FAkDUlPk_6VdQX36HGYrxfwn-H5Dub-VGYmjfIM43nXKkGEoDs2kXdV_lmZ8Tq5WJWkhup4NolL3eBMukMjvyRE5PFVBwdKDQndu3RNoEcvwI-dJTaSIlhi4lXKDMM132J92HCjrgUfddr5lamaIYyRMLYSNGqJ9-0kjFIPgxMkcKARFctjwtnpiae04TQrt4DT9aVa1uoMik5FpmjrtRPyefAIK3JBA3UWDcFxGjUcaZTaovSyrUux2HSia58DQOQoCb17YyqdRd0TPImka6ewj-FBLtIKFMZOsXaY66VPBh14HH8SVf81utmhYbZ5jO3kPi4UPp3z3RDUUmuXA4QoZG09OxMaDU0dt0Q55A-DIPd9-Ra6ZlBq7mEiWJdZd7YhPAzDAhH_SWbNoeF--fBhXNbaGF7Ng_EgFE5rP5ccvNDJxX_zIiH5aXv0ETBLW1TvPXUeTn6g0lKdXswPPePq9TyAL54l8xlmadVhKiUA3VieYvRuCR89wExuH8vLvFSoSZW7v0KZfXWHuAlIpyckI6G5LvLqDIruXdKgB63nNglI4OOWcdddmhElZWaxLHVkMnIE0s0XKfTQ_t_DWwx8yEXhYxMWwQWJX2QhBFeL-G8Bkb7-EuSSagneVOsx23IBACB_fu0LLfaVDbHyqTQ9BEbeTEL5GzHsvPpTY9vQrCDdmUcHln1BUTdgsUDLkwyzGSVmRqLI-jZJdtAPjcfaUXQI9y4po8HqaUkxcr0oaQQurpT-xR-R5Niurze_gNy0CR3Hr7r10RXnGMEMS88As321VhZK5IZW3To0a03_9mUQnEf-cfdZFnlVse7FpMEYJi5s2hlX2fx01uPjOwAAdB15B49aEWnpK7QtSEub0JvpzS72MgCCIoGGXMslF1ppvLzH0qWjoW69QRlylQQNlCoG9LKVU214FD4rv694gByNdeNvdnH12XOE4fCLa6Bv_X3axhqohurVMsTLRd_GaXCY5-It_zWymS2hWingidheqnDKEXMl3DRCm8_zrAR0RWljD5IF2eGblAUgJ6ugc7n9QmZCUNJSSapQi10HSoV8DL-a0Rc9RkH5AbYZeGUcAiL0cmEznUxYKvujOyxkwBW9D48SWQHpV9iRtEfrQCtBJToOokwCGv3OENfVf3qZfOh_fvWPyd4VQfkurezV1DYWAH5tM6H8zPpT4x8ALChxcfsfYmlVAYdUBRDjo7wv8WEuHqb0ymrVQlAH_eNWFUgMY35loxWyycVlWiksyQBSitQSbU_9JCBa75cvtLxAnX1rr77J7Un79EXMu78cXx31JpJ2IPo6_bps931b-pV4XPsOKR9N5mV1BVoJ_EGUquJYxmGbQTiYYmP33yTU9AGBxwO6XWXlj5z9PLu7KI_hTa7yypyOWhEiSANVR9oVPNwjrgkXyX5FLZkOgbQFqA6qVGIxB_FATP5fO7-opMQNQQOnzuEhZZ9YCZxL57wvGRFWdgJM2uZxzsxvNVtOWfwQJ5KlbzXaEV0hAqm4sVC-_gSewRvJrIAio3dT2Li8EVX7I6qVGd1jWAXAoxuk8_HtsnL6fA5WQb6EY8WTSl0wYLuGwVex_lElGYoJ8NGQfrpszkHPfVBM0hMP-0D4NNGdQwPO7cHdawRpkBenjAOFRVaOBigWRsE2uGddy15RDKTfIpFf-eZlqbEuGQSJBIJafJYdVyk4GDJ760M8cKjxBVf33klt1de4ZWznO1QnKTmKupbw1jrZ_pAz0fNq0bBwWwKBozU-WaXpCtWIfQAWimRekcPpfMT-o2cPMIicwckfA0YddXH7dGmw6xPIewlhjuo2YOZyabI0uzEPwn1cGDumcf8htt2hCZqFHNHofqqcas1DLSCkdlsD2zBk4DV5O5N6QVWpj8wNTKfrRFM9mR7KAqgGko06uPtJS1LlsIi_NvE3Reb5qZGW3fj1gKYutOJ11814lMYTw5M8rFhZdd-HvhVR0edozbhrT_h3jcW64i5gDnLd7iBvueN-QWwoC4blY5WSEc0l3vkEsbgq4th-mUvpoAhm8yfXtCyY7UV_F6bhxRlXlC34Jyc4c2HJxjY-TMoqgWpcs9Uf6l0YrKvq1ZuhZg1BNfqFUMlELqrE5u2HMaBE7isD_0DYNME526eiEdH1C_QtBJtLTLNpsaK2skzqnnF60Gete1YdEAxP6smnxeqd0TV2yQBtoAqOyGYBY62wOFqPE7dI_Jjh_XcXFtFBFR_wGcjn26yTqZmSRq6YGhrZXhwf3cdimcQEKzJhqyXGHSmVJpV80aiqOsxuFXO1LCiC_-MLpGiwwR0zB5r1dUmHNJ1MJ9Ocg_lt4paeEO6igSqAGy03sgnIPPeiYQv1EnkFFaKxjB1IjtZI3u0frTg4yn-7-8D4vI09k-N2Qelph7xFlFsb2OcNlZLGhnSK3pF6QMdVw6LRWHA3HilnsSqBsTF2BfgNoE4eMDKdm-2UVIoDJ58oCCy9PU_jIlFBBRNACcwPG8Qv4a3SEqKoUs5FTrwzpUuOiZC85wpt4yV-vXWF3o3osZBedhAiqTv9wFR6B4_DIMBkveVnk8ZxGRnzbOVIszOUD3ERbo72mG7a6T6kn-3_vgWwlLOWhbup1sWxBe6BaBWspopIeo1Dbaz8tnfLk5jEYE05eyOqCZ0paxA1ZMvnUIOV_T5SPojmwkXKBAOtczL9_JzzWgGHqVLNFRGmVTS9pL6yhFYxSyXkUIojk3vQdLzl9TsjyoV1kf90ZXgzN0h74WGmPjZgYrKZ3kTHTdu-WUgILzZlc0E2UbVw',
-    type: MediaType.MOVIE
+    "id": 66,
+    "title": "Всё самое лучшее",
+    "originalTitle": "All Good Things",
+    "year": 2010,
+    "genres": ["Драма", "Триллер", "Мелодрама"],
+    "description": "Наследник одной из самых богатых семей Нью-Йорка, сделавшей состояние на недвижимости, влюбляется в девушку не из своего круга. Их романтические отношения развиваются по вполне обыденному сценарию, кроме одного - девушка не знает, что у ее парня серьезные психические проблемы. В конце концов, девушка исчезает, проходит 20 лет прежде чем расследование снова возобновят, что закончится смертью для причастных к этому делу людей.",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/8/4/7/18847-all-good-things-0-1000-0-1500-crop.jpg?v=22352c36e2",
+    "posterUrl2": "https://a.ltrbxd.com/resized/film-poster/1/8/8/4/7/18847-all-good-things-0-1000-0-1500-crop.jpg?v=22352c36e2",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt1178663",
+      "rating": 6.4,
+      "genres": ["Drama", "Mystery", "Romance"]
+    },
+    "kinopoisk": {
+      "id": "408878",
+      "rating": 6.7,
+      "genres": ["Драма", "Триллер", "Мелодрама"],
+      "description": "Фильм основан на реальных событиях и рассказывает о загадочном исчезновении Кэти Маккормак, жены наследника нью-йоркской недвижимости Роберта Дёрста."
+    },
+    "letterboxd": {
+      "id": "all-good-things",
+      "rating": 3.0,
+      "genres": ["Drama", "Mystery"]
+    },
   },
   {
-    id: 27,
-    title: 'Интерстеллар',
-    originalTitle: 'Interstellar',
-    year: 2014,
-    genres: ['Фантастика', 'Драма', 'Приключения'],
-    description: 'Группа исследователей совершает путешествие через червоточину в космосе в поисках нового дома для человечества.',
-    posterUrl: 'https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
-    type: MediaType.MOVIE
-  },
-   {
-    id: 28,
-    title: 'Майор Гром: Чумной Доктор',
-    originalTitle: 'Mayor Grom: Plague Doctor',
-    year: 2021,
-    genres: ['Боевик', 'Криминал', 'Драма'],
-    description: 'Первый фильм киновселенной Bubble, где майор полиции Игорь Гром сталкивается с таинственным мстителем в маске Чумного Доктора.',
-    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bueXwukX8BxeYS7VYMDuqgNZjYjXhsR_kQ&s',
-    type: MediaType.MOVIE
-  },
-  {
-    id: 30,
-    title: 'Майор Гром: Трудное детство',
-    originalTitle: 'Mayor Grom: Trudnoye detstvo',
-    year: 2024,
-    genres: ['Боевик', 'Криминал', 'Приключения'],
-    description: 'Приквел о юности Игоря Грома, где он впервые сталкивается с несправедливостью и принимает решение стать полицейским.',
-    posterUrl: 'https://kinopoisk-ru.clstorage.net/d29GX8402/d97dbfeSwH/uZUJqETOMio-oYTfxTY6MG86xPmFHVRK40RFFNerX78LE-Te41zMlSnyRIkEqMgtW0no4Rb7DcQRPDeGGTJmUfuXSvAAhC5yb-CFlZRoJmEiJPXDsHNxcNg7Yyfqyhn-Sw-8g74cjptwsR-XRuyuSk4iybd98E6wSV55tmoAWzOXuCqfc_pSJA692PTJLRIecWzj7bNQXXrSA103xsUi7n1ytp6WB72Da4g32nbusFwUCeSUWvVMnkBBa7NYFGEvor0aoHTodwkoou7n7iIcJH9g5_KEXkBN0QJsAcjFKv1_YLmJoiGbpnGAPvJ1-Jh6IQjBmGTmW55vTVqDYgdJBKKwC5hk224rHZr74N4JOT9ZcPDopEVRf8Q4RwXT3CDdTES4g7wDrLd2gA3PYM64fwU26INI1m2XQFplvV4eTgC7lSmeTvduEQyx7s38Ex0vXXzn7Z1YUEfCK0c45-Ag2Vt5oaG5FrSySZAm-njKk2whF_S6a-5Om25BV5ViHkwAiqY6h27nch0os97k4j8NNlRY-cqzVkpc0wBvDPLQP-ZVVa6wvTmwo0mPEf946qFMPjTagFbtVo9ySlulZR5mJayDF65Q9koTI57D1841OCdiRf_akFR3Wu8uQDPt9Rn_cEKbsJ4Cl65KmxHWZcq0ewIb25J41lq-VXljs20DWzKEuQmORMdZCw2_xOjdMyYcfVnM_aNYWH_EOG8Dzu4b23F1pK2GMZW7Q4ouyFnLp14JMdS5fOp1j1d8bpRJM1kWqLMRjVnxch4bofve6jk1IFZu39WpfFtB_j5OFs3TIPx-ZKa_thavnHSWNelT_oJYDyPMpFf4UYJUemiPSBBxNp-HK6tH-Hc-NLDNxOsdJAdQU-jThEp1bfUkWQbn8hnTeU6yorw0u61erTLWQt6iXQg2zL5Lzn6NVVJqll0vZC-Lmw6eZthdNRaU3PD1ATcnR1DoyqBGYVf-O0Ej9MsA43dFv7uZGI-7S4sN0kX-hUMrHMu8a_B3ukdAbL1DPFEOq6w-m3_oVQ0vuuPD3jomJ1Jk4u--WFlJxzpcNNvRKPlNbryQkTiEjl61E-NA1KJXAy_ov2HWbZlGbU2leQ5GK7WMJL980W0GN53v1dIJCBdueN_qkmVVQ-07biH29yjhf0m8o5gwiKxJkCTqW_qoeDoO-6JK93O4Tn9krWYiWjyArT6Ne_F1PyqW4e_WMDw8XnjY-7JDfVXTLkAG0NI450lqh6C9JpaTc5IZ3G7Sk3QcNcq1aNZdpF5RQLZ8OkEOoLUTmU7qVR89oOPcxRUZJE5AzsWEXWdt1BpSK8nCL8VXZoCghBavmlWvP8lA7LVZORn4uGXrXqdeXmyTSBBRB6unKYB913EDMbXZ6OYwMA1cf8_plVhjbPooTiHq0hvPcG2jrb0Rr75emCT-YcuoeAkezaFC3kWnQUlaqGA_TAuGgzO7fvNdNBmby_fOIAcbW1fT0rBaQFjPJFor1N0n715Gg6GpN7OtcY4x1U3TqHA9POifWP1wpHRmXYZuHFQ3opkenEHYdjU8ueDq1A47G1pa5-2eeFh34DlCEPLUGuVZTqOwiQGbpXOvF91b9L1SLy3ntkr-WbBTSkOzSRNnL4GFEp9x6V8oE6jA7uUzEydNf8_TiUZ5RdQsbQjJ9QH9XmuwgLoAlI5tkD7IR9q-WCwA2Zpf6maMVER4gH4sdBSdggyYdNd-MQ6m7tHlMAQdcnn46bZ_eHvYGUEE1ecCwWxqsbOmJ5GXY7E32FnUnHA-GOmqTvByrGFpR7NCAGo-u5IuqEb5digQkO7T8isQMF1zxPScRkdEzR9FJPfoA-d6b7K8lz64g2GjMdV6_rV0Aw7MlXb0ZLtHfF2mehpTEKSwCaBg_EssObvs_N0oLwx6Rc3fg3FKYPsvWiLF4hbEdGKSk6IfsIdekAfaeei8RyAzzbBC8laYYkxMkUkscAOnjgSsU-52Ciy9xffuKxgPcGLa15VwXkjfI0gO1ss0_EtIuai4B5m7SZUl-3jQmFMFGPeqSsxbj0J9W4lrEmk2p7UbkX_nUgU7tfPqwDInHE5B0NqrVFZF7RtwN_ToJOJabJ-TnCa9m3uMMfJ69ptFPBHtnGvGeaFnRU2FRwBZJKSHNYp83lc0LrTt8OkCGi9nbtn2vH1cTt8ZSCPBzgHecGe2pLQLkZ5uuCzIY9uJTAMA479Y3V6aQEx7om84YDWGpwWncPZzMhOR39zWOgo8fV7Yzb9iaUrUKF404NE2xU9CsbmVI4qSULURz0DfgFMWHty-Stp4h3N6e7FNDmk_u5ourG_fXzMvlOTLzjo1E2ZD6M-he0lp1CBzCOTyA9tWbaG7vRqKlV-sMutk36NAAjflt0PZWLxKXX-uYCdtLbmTBaRe9HMeH7Dczs83BgxCe-D_q3d1buEcUiLtwR3HeWCAjr8DvL9clDnLWve3Vx0Y559u2Fq5TltYqlY7UQKCtg-sZuV3PRa9y-j-Fic8QHfk65ZrQWLDIXw08OYc-0VUpI2xNJi_dKAM0lHXll4hK9-WVfl2h1VdXa5EG0c-m5IMv27NTgY7msPo3CARI3Jm_daod1Vk2jhjMOTWK-V4UJKpogS3rW-xAux83qNzPC_lpmfnTZt0TXa1VARgJ6GuKLNu-k4TP7DYzeMzBzZyYc_tpmdgbe0OZwXp6RbZWluEm5EwsrxOlBfjTfOJUTgA6aJ970mWXEljtWgFSjCjnDqzWPBSKjem3_XoCCYZeHXHyYlIR3jhAWIu9e89y3dXp5ObJZWGWLc9_XzThVIYKeacQvlfn0JteJ9bGVskjZ07j2_3fjEph9PT9zwtB01E5PCyXHBK5SNkBcjHGttUdJmAmTWmp1e3HP9V1pdnDwPkmkzKVLBAf2q0VAxNHp-xDKVc534pCr399u4oKjl5QtrtlXprSN8CeDLN1yvjflewrbwCvb5qjQXYfc62YQAv6Zt280aEY0M', 
-    type: MediaType.MOVIE
+    "id": 67,
+    "title": "Интерстеллар",
+    "originalTitle": "Interstellar",
+    "year": 2014,
+    "genres": ["Фантастика", "Драма", "Приключения"],
+    "description": "Группа исследователей совершает путешествие через червоточину в космосе в поисках нового дома для человечества.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/film-poster/2/4/2/5/1/24251-interstellar-0-460-0-690-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt0816692",
+      "rating": 8.6,
+      "genres": ["Adventure", "Drama", "Sci-Fi"]
+    },
+    "kinopoisk": {
+      "id": "258687",
+      "rating": 8.6,
+      "genres": ["Фантастика", "Драма", "Приключения"],
+      "description": "Когда засуха приводит человечество к продовольственному кризису, коллектив исследователей и учёных отправляется сквозь червоточину (которая предположительно соединяет области пространства-времени через большое расстояние) в путешествие, чтобы превзойти прежние ограничения для космических путешествий человека и переселить человечество на другую планету."
+    },
+    "letterboxd": {
+      "id": "interstellar-2014",
+      "rating": 4.2,
+      "genres": ["Science Fiction", "Drama"]
+    },
   },
   {
-    id: 29,
-    title: 'Вавилон',
-    originalTitle: 'Babylon',
-    year: 2022,
-    genres: ['Драма', 'Комедия'],
-    description: 'Эпическая история о взлетах и падениях нескольких персонажей во времена перехода Голливуда от немого кино к звуковому.',
-    posterUrl: 'https://m.media-amazon.com/images/M/MV5BNjlkYjc4NGMtZjc3MS00NjQ3LTk4MmUtMTkwZGZjODE1ZDVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg',
-    type: MediaType.MOVIE
+    "id": 68,
+    "title": "Майор Гром: Чумной Доктор",
+    "originalTitle": "Mayor Grom: Plague Doctor",
+    "year": 2021,
+    "genres": ["Боевик", "Криминал", "Драма"],
+    "description": "Первый фильм киновселенной Bubble, где майор полиции Игорь Гром сталкивается с таинственным мстителем в маске Чумного Доктора.",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bueXwukX8BxeYS7VYMDuqgNZjYjXhsR_kQ&s",
+    "posterUrl2": "https://a.ltrbxd.com/resized/film-poster/5/1/8/0/0/51800-mayor-grom-plague-doctor-0-460-0-690-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt11704112",
+      "rating": 6.3,
+      "genres": ["Action", "Crime", "Drama"]
+    },
+    "kinopoisk": {
+      "id": "1219149",
+      "rating": 6.8,
+      "genres": ["Боевик", "Криминал", "Драма"],
+      "description": "Игорь Гром — опытный следователь из Петербурга, известный своим пренебрежением к бюрократии и умением раскрывать самые сложные преступления. Когда в городе появляется таинственный преступник, называющий себя Чумным Доктором, Гром вынужден выйти на тропу войны."
+    },
+    "letterboxd": {
+      "id": "mayor-grom-plague-doctor",
+      "rating": 3.1,
+      "genres": ["Action", "Crime"]
+    },
+  },
+    {
+    "id": 69,
+    "title": "Майор Гром: Трудное детство",
+    "originalTitle": "Mayor Grom: Trudnoye detstvo",
+    "year": 2024,
+    "genres": ["Боевик", "Криминал", "Приключения"],
+    "description": "Приквел о юности Игоря Грома, где он впервые сталкивается с несправедливостью и принимает решение стать полицейским.",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/8/5/1/4/458514-major-grom-plague-doctor-0-1000-0-1500-crop.jpg?v=3e3ad61ae4",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/major-grom-plague-doctor-0-1000-0-1500-crop.jpg?v=3e3ad61ae4",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt12345678",
+      "rating": 7.2,
+      "genres": ["Action", "Crime", "Adventure"]
+    },
+    "kinopoisk": {
+      "id": "1234567",
+      "rating": 7.5,
+      "genres": ["Боевик", "Криминал", "Приключения"],
+      "description": "Молодой Игорь Гром сталкивается с несправедливостью в родном городе, что заставляет его пересмотреть свои взгляды на жизнь и выбрать путь служения закону."
+    },
+    "letterboxd": {
+      "id": "major-grom-plague-doctor",
+      "rating": 3.8,
+      "genres": ["Action", "Crime"]
+    }
   },
   {
-    id: 30,
-    title: 'Ужин по-американски',
-    originalTitle: 'Dinner in America',
-    year: 2020,
-    genres: ['Комедия', 'Драма', 'Мелодрама'],
-    description: 'История о панк-рокере, который скрывается от полиции, и девушке, которая становится его невольной сообщницей.',
-    posterUrl: 'https://upload.wikimedia.org/wikipedia/en/5/5b/Dinner_in_America.jpg',
-    type: MediaType.MOVIE
+    "id": 70,
+    "title": "Вавилон",
+    "originalTitle": "Babylon",
+    "year": 2022,
+    "genres": ["Драма", "Комедия"],
+    "description": "Эпическая история о взлетах и падениях нескольких персонажей во времена перехода Голливуда от немого кино к звуковому.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjlkYjc4NGMtZjc3MS00NjQ3LTk4MmUtMTkwZGZjODE1ZDVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/babylon-2022-0-1000-0-1500-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt10640346",
+      "rating": 7.3,
+      "genres": ["Drama", "Comedy"]
+    },
+    "kinopoisk": {
+      "id": "1234568",
+      "rating": 7.1,
+      "genres": ["Драма", "Комедия"],
+      "description": "Грандиозная панорама Голливуда 1920-х годов, где смешались гении, безумцы и новые технологии кинематографа."
+    },
+    "letterboxd": {
+      "id": "babylon-2022",
+      "rating": 3.9,
+      "genres": ["Drama", "Comedy"]
+    }
   },
   {
-    id: 31,
-    title: 'Идеальные дни',
-    originalTitle: 'Perfect Days',
-    year: 2023,
-    genres: ['Драма'],
-    description: 'История токийского уборщика туалетов, который находит красоту в простых повседневных моментах.',
-    posterUrl: 'https://upload.wikimedia.org/wikipedia/ru/2/24/Perfect_Days.jpeg',
-    type: MediaType.MOVIE
+    "id": 71,
+    "title": "Ужин по-американски",
+    "originalTitle": "Dinner in America",
+    "year": 2020,
+    "genres": ["Комедия", "Драма", "Мелодрама"],
+    "description": "История о панк-рокере, который скрывается от полиции, и девушке, которая становится его невольной сообщницей.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/5b/Dinner_in_America.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/dinner-in-america-0-1000-0-1500-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt8262802",
+      "rating": 7.0,
+      "genres": ["Comedy", "Drama", "Romance"]
+    },
+    "kinopoisk": {
+      "id": "1234569",
+      "rating": 7.3,
+      "genres": ["Комедия", "Драма", "Мелодрама"],
+      "description": "Неожиданная встреча между панк-музыкантом и молодой женщиной приводит к серии безумных приключений, которые меняют их жизни."
+    },
+    "letterboxd": {
+      "id": "dinner-in-america",
+      "rating": 3.7,
+      "genres": ["Comedy", "Drama"]
+    }
   },
   {
-    id: 32,
-    title: 'RRR',
-    originalTitle: 'RRR',
-    year: 2022,
-    genres: ['Боевик', 'Драма', 'Исторический'],
-    description: 'Эпическая история о двух легендарных индийских революционерах и их дружбе во времена британского колониального правления.',
-    posterUrl: 'https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg',
-    type: MediaType.MOVIE
+    "id": 72,
+    "title": "Идеальные дни",
+    "originalTitle": "Perfect Days",
+    "year": 2023,
+    "genres": ["Драма"],
+    "description": "История токийского уборщика туалетов, который находит красоту в простых повседневных моментах.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/ru/2/24/Perfect_Days.jpeg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/perfect-days-0-1000-0-1500-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt12345679",
+      "rating": 7.8,
+      "genres": ["Drama"]
+    },
+    "kinopoisk": {
+      "id": "1234570",
+      "rating": 7.9,
+      "genres": ["Драма"],
+      "description": "Трогательная история о человеке, нашедшем гармонию в простых вещах и ежедневных ритуалах жизни в большом городе."
+    },
+    "letterboxd": {
+      "id": "perfect-days",
+      "rating": 4.1,
+      "genres": ["Drama"]
+    }
   },
   {
-    id: 33,
-    title: 'Субботний вечер',
-    originalTitle: 'Saturday Night',
-    year: 2024,
-    genres: ['Комедия', 'Драма'],
-    description: 'История о группе друзей, чья жизнь меняется во время одного безумного вечера.',
-    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQryWAMpbplcJ5_zuQtNnbadnSoWn4pJQHJJA&s',
-    type: MediaType.MOVIE
+    "id": 73,
+    "title": "RRR",
+    "originalTitle": "RRR",
+    "year": 2022,
+    "genres": ["Боевик", "Драма", "Исторический"],
+    "description": "Эпическая история о двух легендарных индийских революционерах и их дружбе во времена британского колониального правления.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/rrr-0-1000-0-1500-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt8178634",
+      "rating": 7.9,
+      "genres": ["Action", "Drama", "History"]
+    },
+    "kinopoisk": {
+      "id": "1234571",
+      "rating": 8.2,
+      "genres": ["Боевик", "Драма", "Исторический"],
+      "description": "Грандиозный индийский блокбастер о дружбе двух революционеров, боровшихся против британского колониализма."
+    },
+    "letterboxd": {
+      "id": "rrr",
+      "rating": 4.3,
+      "genres": ["Action", "Drama"]
+    }
   },
   {
-    id: 34,
-    title: 'Закусочная',
-    originalTitle: 'Snack Shack',
-    year: 2024,
-    genres: ['Комедия'],
-    description: 'Два подростка летом 1991 года открывают закусочную у местного бассейна и попадают в различные приключения.',
-    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmqOgW_oZ5ik5gzjyFxaIWVKa1GrjQ7WlfA&s',
-    type: MediaType.MOVIE
+    "id": 74,
+    "title": "Субботний вечер",
+    "originalTitle": "Saturday Night",
+    "year": 2024,
+    "genres": ["Комедия", "Драма"],
+    "description": "История о группе друзей, чья жизнь меняется во время одного безумного вечера.",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQryWAMpbplcJ5_zuQtNnbadnSoWn4pJQHJJA&s",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/saturday-night-0-1000-0-1500-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt12345680",
+      "rating": 6.5,
+      "genres": ["Comedy", "Drama"]
+    },
+    "kinopoisk": {
+      "id": "1234572",
+      "rating": 6.8,
+      "genres": ["Комедия", "Драма"],
+      "description": "Один вечер, который перевернет жизни нескольких друзей, заставив их пересмотреть свои ценности и отношения."
+    },
+    "letterboxd": {
+      "id": "saturday-night",
+      "rating": 3.2,
+      "genres": ["Comedy", "Drama"]
+    }
   },
   {
-    id: 35,
-    title: 'Банши Инишерина',
-    originalTitle: 'The Banshees of Inisherin',
-    year: 2022,
-    genres: ['Драма', 'Комедия'],
-    description: 'На отдаленном ирландском острове в 1923 году один житель внезапно решает разорвать многолетнюю дружбу, что приводит к неожиданным последствиям.',
-    posterUrl: 'https://upload.wikimedia.org/wikipedia/ru/thumb/9/93/The_Banshees_of_Inisherin_%28film%29.jpg/1200px-The_Banshees_of_Inisherin_%28film%29.jpg',
-    type: MediaType.MOVIE
+    "id": 75,
+    "title": "Закусочная",
+    "originalTitle": "Snack Shack",
+    "year": 2024,
+    "genres": ["Комедия"],
+    "description": "Два подростка летом 1991 года открывают закусочную у местного бассейна и попадают в различные приключения.",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmqOgW_oZ5ik5gzjyFxaIWVKa1GrjQ7WlfA&s",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/snack-shack-0-1000-0-1500-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt12345681",
+      "rating": 6.7,
+      "genres": ["Comedy"]
+    },
+    "kinopoisk": {
+      "id": "1234573",
+      "rating": 6.9,
+      "genres": ["Комедия"],
+      "description": "Ностальгическая комедия о летних приключениях подростков, пытающихся заработать на собственном маленьком бизнесе."
+    },
+    "letterboxd": {
+      "id": "snack-shack",
+      "rating": 3.4,
+      "genres": ["Comedy"]
+    }
   },
   {
-    id: 36,
-    title: 'Громовержцы',
-    originalTitle: 'Thunderbolts',
-    year: 2025,
-    genres: ['Фантастика', 'Боевик', 'Приключения'],
-    description: 'Группа антигероев Marvel объединяется для выполнения опасных миссий.',
-    posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-pt_lg77D_FEn9K4VBBmxZZ7tGrx2bwliA&s',
-    type: MediaType.MOVIE
+    "id": 76,
+    "title": "Банши Инишерина",
+    "originalTitle": "The Banshees of Inisherin",
+    "year": 2022,
+    "genres": ["Драма", "Комедия"],
+    "description": "На отдаленном ирландском острове в 1923 году один житель внезапно решает разорвать многолетнюю дружбу, что приводит к неожиданным последствиям.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/93/The_Banshees_of_Inisherin_%28film%29.jpg/1200px-The_Banshees_of_Inisherin_%28film%29.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/the-banshees-of-inisherin-0-1000-0-1500-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt11813216",
+      "rating": 7.8,
+      "genres": ["Drama", "Comedy"]
+    },
+    "kinopoisk": {
+      "id": "1234574",
+      "rating": 7.9,
+      "genres": ["Драма", "Комедия"],
+      "description": "Трагикомическая история о разрыве дружбы, которая приводит к цепочке неожиданных событий на маленьком ирландском острове."
+    },
+    "letterboxd": {
+      "id": "the-banshees-of-inisherin",
+      "rating": 4.2,
+      "genres": ["Drama", "Comedy"]
+    }
   },
-      {
-        id: 100,
-        title: 'Андор',
-        originalTitle: 'Andor',
-        year: 2022,
-        genres: ['Фантастика', 'Драма', 'Приключения'],
-        description: 'Приквел к "Звездным войнам" о Кассиане Андорре.',
-        posterUrl: 'https://upload.wikimedia.org/wikipedia/ru/thumb/8/8b/Star_Wars_Andor.jpg/640px-Star_Wars_Andor.jpg',
-        type: MediaType.SERIES,
-        seasons: 1
+  {
+    "id": 77,
+    "title": "Громовержцы",
+    "originalTitle": "Thunderbolts",
+    "year": 2025,
+    "genres": ["Фантастика", "Боевик", "Приключения"],
+    "description": "Группа антигероев Marvel объединяется для выполнения опасных миссий.",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-pt_lg77D_FEn9K4VBBmxZZ7tGrx2bwliA&s",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/thunderbolts-0-1000-0-1500-crop.jpg",
+    type: MediaType.MOVIE,
+    "imdb": {
+      "id": "tt12345682",
+      "rating": undefined,
+      "genres": ["Action", "Adventure", "Sci-Fi"]
+    },
+    "kinopoisk": {
+      "id": "1234575",
+      "rating": undefined,
+      "genres": ["Фантастика", "Боевик", "Приключения"],
+      "description": "Команда антигероев из вселенной Marvel собирается для выполнения специальных миссий под руководством Валентины Аллегры де Фонтейн."
+    },
+    "letterboxd": {
+      "id": "thunderbolts",
+      "rating": undefined,
+      "genres": ["Action", "Sci-Fi"]
+    }
+  },
+  {
+    "id": 78,
+    "title": "Андор",
+    "originalTitle": "Andor",
+    "year": 2022,
+    "genres": ["Фантастика", "Драма", "Приключения"],
+    "description": "Приквел к 'Звездным войнам' о Кассиане Андорре.",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/8/8b/Star_Wars_Andor.jpg/640px-Star_Wars_Andor.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/andor-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt9253284",
+      "rating": 8.4,
+      "genres": ["Sci-Fi", "Drama", "Adventure"]
+    },
+    "kinopoisk": {
+      "id": "1234576",
+      "rating": 8.2,
+      "genres": ["Фантастика", "Драма", "Приключения"],
+      "description": "История становления Кассиана Андорра, который станет ключевой фигурой в борьбе повстанцев против Галактической Империи."
+    },
+    "letterboxd": {
+      "id": "andor",
+      "rating": 4.3,
+      "genres": ["Sci-Fi", "Drama"]
+    },
+    "seriesInfo": {
+      "seasons": 1,
+      "episodes": 12,
+      "endYear": 2022
+    }
+  },
+  {
+    "id": 79,
+    "title": "Аркейн",
+    "originalTitle": "Arcane",
+    "year": 2021,
+    "genres": ["Аниме", "Фантастика", "Драма"],
+    "description": "История происхождения двух легендарных чемпионов League of Legends.",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSSzHB_KX1vBQBSfx989zlfFNpqjGb80I9g&s",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/arcane-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt11126994",
+      "rating": 9.0,
+      "genres": ["Animation", "Action", "Adventure"]
+    },
+    "kinopoisk": {
+      "id": "1234577",
+      "rating": 9.1,
+      "genres": ["Аниме", "Фантастика", "Драма"],
+      "description": "Визуально потрясающий анимационный сериал, раскрывающий историю персонажей вселенной League of Legends."
+    },
+    "letterboxd": {
+      "id": "arcane",
+      "rating": 4.7,
+      "genres": ["Animation", "Drama"]
+    },
+    "seriesInfo": {
+      "seasons": 1,
+      "episodes": 9,
+      "endYear": 2021
+    }
+  },
+  {
+    "id": 80,
+    "title": "Атланта",
+    "originalTitle": "Atlanta",
+    "year": 2016,
+    "genres": ["Комедия", "Драма"],
+    "description": "История двух кузенов, пытающихся пробиться в мире рэп-музыки.",
+    "posterUrl": "https://irecommend.ru/sites/default/files/product-images/2708446/tXAyjSWUUlbYCD2m96c2uw.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/atlanta-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt4288182",
+      "rating": 8.6,
+      "genres": ["Comedy", "Drama"]
+    },
+    "kinopoisk": {
+      "id": "1234578",
+      "rating": 8.4,
+      "genres": ["Комедия", "Драма"],
+      "description": "Уникальный сериал Дональда Гловера о жизни в Атланте, сочетающий социальную сатиру, сюрреализм и глубокие размышления о современной культуре."
+    },
+    "letterboxd": {
+      "id": "atlanta",
+      "rating": 4.4,
+      "genres": ["Comedy", "Drama"]
+    },
+    "seriesInfo": {
+      "seasons": 4,
+      "episodes": 41,
+      "endYear": 2022
+    }
+  },
+  {
+    "id": 81,
+    "title": "Друзья",
+    "originalTitle": "Friends",
+    "year": 1994,
+    "genres": ["Комедия", "Ситком"],
+    "description": "Культовый ситком о жизни шестерых друзей в Нью-Йорке.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/friends-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt0108778",
+      "rating": 8.9,
+      "genres": ["Comedy", "Romance"]
+    },
+    "kinopoisk": {
+      "id": "1234579",
+      "rating": 9.0,
+      "genres": ["Комедия", "Ситком"],
+      "description": "Легендарный ситком о шестерых друзьях, живущих в Нью-Йорке, который стал культурным феноменом и символом целого поколения."
+    },
+    "letterboxd": {
+      "id": "friends",
+      "rating": 4.5,
+      "genres": ["Comedy"]
+    },
+    "seriesInfo": {
+      "seasons": 10,
+      "episodes": 236,
+      "endYear": 2004
+    }
+  },
+  {
+    "id": 82,
+    "title": "Чёрные паруса",
+    "originalTitle": "Black Sails",
+    "year": 2014,
+    "genres": ["Приключения", "Драма", "Исторический"],
+    "description": "Пиратская сага, приквел к 'Острову сокровищ'.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGZmOGNjNzUtNTNkMC00ZDU2LThjMDAtZGM2OGRjMjE1OGQ5XkEyXkFqcGc@._V1_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/black-sails-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt2375692",
+      "rating": 8.2,
+      "genres": ["Adventure", "Drama"]
+    },
+    "kinopoisk": {
+      "id": "1234580",
+      "rating": 8.3,
+      "genres": ["Приключения", "Драма", "Исторический"],
+      "description": "Захватывающая пиратская сага, рассказывающая о событиях, предшествующих роману 'Остров сокровищ'."
+    },
+    "letterboxd": {
+      "id": "black-sails",
+      "rating": 4.2,
+      "genres": ["Adventure", "Drama"]
+    },
+    "seriesInfo": {
+      "seasons": 4,
+      "episodes": 38,
+      "endYear": 2017
+    }
+  },
+  {
+    "id": 83,
+    "title": "Реальные парни",
+    "originalTitle": "Blue Mountain State",
+    "year": 2010,
+    "genres": ["Комедия", "Спорт"],
+    "description": "О жизни студентов-футболистов колледжа.",
+    "posterUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7930922_b_v8_ac.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/blue-mountain-state-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt1378167",
+      "rating": 8.2,
+      "genres": ["Comedy", "Sport"]
+    },
+    "kinopoisk": {
+      "id": "1234581",
+      "rating": 8.1,
+      "genres": ["Комедия", "Спорт"],
+      "description": "Отвязная комедия о жизни студентов-футболистов колледжа, полная безумных вечеринок и абсурдных ситуаций."
+    },
+    "letterboxd": {
+      "id": "blue-mountain-state",
+      "rating": 3.9,
+      "genres": ["Comedy"]
+    },
+    "seriesInfo": {
+      "seasons": 3,
+      "episodes": 39,
+      "endYear": 2011
+    }
+  },
+  {
+    "id": 84,
+    "title": "Блудливая Калифорния",
+    "originalTitle": "Californication",
+    "year": 2007,
+    "genres": ["Комедия", "Драма"],
+    "description": "О писателе Хэнке Муди и его хаотичной жизни в Лос-Анджелесе.",
+    "posterUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7895125_b_v13_aa.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/californication-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt0904208",
+      "rating": 8.3,
+      "genres": ["Comedy", "Drama"]
+    },
+    "kinopoisk": {
+      "id": "1234582",
+      "rating": 8.2,
+      "genres": ["Комедия", "Драма"],
+      "description": "История харизматичного писателя Хэнка Муди, который балансирует между творческим кризисом, сложными отношениями и бесконечными соблазнами Лос-Анджелеса."
+    },
+    "letterboxd": {
+      "id": "californication",
+      "rating": 4.0,
+      "genres": ["Comedy", "Drama"]
+    },
+    "seriesInfo": {
+      "seasons": 7,
+      "episodes": 84,
+      "endYear": 2014
+    }
+  },
+  {
+    "id": 85,
+    "title": "Утиные истории",
+    "originalTitle": "DuckTales",
+    "year": 2017,
+    "genres": ["Мультфильм", "Приключения", "Комедия"],
+    "description": "Современная адаптация классического мультсериала.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTA2NTc5MzQwNV5BMl5BanBnXkFtZTgwOTY2ODI2MjI@._V1_FMjpg_UX1000_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/ducktales-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt5766194",
+      "rating": 8.0,
+      "genres": ["Animation", "Adventure", "Comedy"]
+    },
+    "kinopoisk": {
+      "id": "1234583",
+      "rating": 8.1,
+      "genres": ["Мультфильм", "Приключения", "Комедия"],
+      "description": "Обновленная версия классического мультсериала о приключениях Скруджа МакДака и его племянников."
+    },
+    "letterboxd": {
+      "id": "ducktales",
+      "rating": 4.0,
+      "genres": ["Animation", "Adventure"]
+    },
+    "seriesInfo": {
+      "seasons": 3,
+      "episodes": 75,
+      "endYear": 2021
+    }
+  },
+  {
+    "id": 86,
+    "title": "Красавцы",
+    "originalTitle": "Entourage",
+    "year": 2004,
+    "genres": ["Комедия", "Драма"],
+    "description": "О молодом актере и его друзьях в Голливуде.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjEyYWJlMDktNGEwMi00OTRjLWE4YzgtOTMwNDc0NzQzMDlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5j/5x/5b/5e/entourage-0-1000-0-1500-crop.jpg",
+    type: MediaType.SERIES,
+    "imdb": {
+      "id": "tt0387199",
+      "rating": 8.4,
+      "genres": ["Comedy", "Drama"]
+    },
+    "kinopoisk": {
+      "id": "1234584",
+      "rating": 8.3,
+      "genres": ["Комедия", "Драма"],
+      "description": "Сериал о взлетах и падениях молодого актера и его друзей в жестоком мире Голливуда."
+    },
+    "letterboxd": {
+      "id": "entourage",
+      "rating": 4.1,
+      "genres": ["Comedy", "Drama"]
+    },
+    "seriesInfo": {
+      "seasons": 8,
+      "episodes": 96,
+      "endYear": 2011
+    }
+  },
+  {
+      "id": 87,
+      "title": "Хулиганы и ботаны",
+      "originalTitle": "Freaks and Geeks",
+      "year": 1999,
+      "genres": ["Комедия", "Драма"],
+      "description": "Культовый сериал о школьниках 1980-х.",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDk4MTRlZjMtYTMxYi00ZjdkLWEyYjYtZjg1NjBlMzY2MDIzXkEyXkFqcGc@._V1_.jpg",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/freaks-and-geeks-1200-1200-675-675-crop-000000.jpg",
+      type: MediaType.SERIES,
+      "seriesInfo": {
+        "seasons": 1,
+        "episodes": 18,
+        "endYear": 2000
       },
-      {
-        id: 101,
-        title: 'Аркейн',
-        originalTitle: 'Arcane',
-        year: 2021,
-        genres: ['Аниме', 'Фантастика', 'Драма'],
-        description: 'История происхождения двух легендарных чемпионов League of Legends.',
-        posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSSzHB_KX1vBQBSfx989zlfFNpqjGb80I9g&s',
-        type: MediaType.SERIES,
-        seasons: 1
+      "imdb": {
+        "id": "tt0193676",
+        "rating": 8.8,
+        "genres": ["Comedy", "Drama"]
       },
-      {
-        id: 102,
-        title: 'Атланта',
-        originalTitle: 'Atlanta',
-        year: 2016,
-        genres: ['Комедия', 'Драма'],
-        description: 'История двух кузенов, пытающихся пробиться в мире рэп-музыки.',
-        posterUrl: 'https://irecommend.ru/sites/default/files/product-images/2708446/tXAyjSWUUlbYCD2m96c2uw.jpg',
-        type: MediaType.SERIES,
-        seasons: 4
+      "kinopoisk": {
+        "id": "77044",
+        "rating": 8.4,
+        "genres": ["Комедия", "Драма"],
+        "description": "Сериал рассказывает о жизни двух групп подростков в средней школе в начале 1980-х: «хулиганов» и «ботаников»."
       },
-      {
-        id: 103,
-        title: 'Друзья',
-        originalTitle: 'Friends',
-        year: 1994,
-        genres: ['Комедия', 'Ситком'],
-        description: 'Культовый ситком о жизни шестерых друзей в Нью-Йорке.',
-        posterUrl: 'https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg',
-        type: MediaType.SERIES,
-        seasons: 10,
-        episodes: 236
+      "letterboxd": {
+        "id": "freaks-and-geeks",
+        "rating": 4.2
+      }
+    },
+    {
+      "id": 88,
+      "title": "Гравити Фолз",
+      "originalTitle": "Gravity Falls",
+      "year": 2012,
+      "genres": ["Мультфильм", "Мистика", "Комедия"],
+      "description": "Близнецы исследуют аномалии в городке Гравити Фолз.",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_FMjpg_UX1000_.jpg",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7h/7p/3d/5x/gravity-falls-1200-1200-675-675-crop-000000.jpg",
+      type: MediaType.SERIES,
+      "seriesInfo": {
+        "seasons": 2,
+        "episodes": 40,
+        "endYear": 2016
       },
-    {
-      id: 103,
-      title: 'Чёрные паруса',
-      originalTitle: 'Black Sails',
-      year: 2014,
-      genres: ['Приключения', 'Драма', 'Исторический'],
-      description: 'Пиратская сага, приквел к "Острову сокровищ".',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BZGZmOGNjNzUtNTNkMC00ZDU2LThjMDAtZGM2OGRjMjE1OGQ5XkEyXkFqcGc@._V1_.jpg',
-      type: MediaType.SERIES,
-      seasons: 4
+      "imdb": {
+        "id": "tt1865718",
+        "rating": 8.9,
+        "genres": ["Animation", "Adventure", "Comedy"]
+      },
+      "kinopoisk": {
+        "id": "535341",
+        "rating": 8.8,
+        "genres": ["Мультфильм", "Мистика", "Комедия"],
+        "description": "Близнецы Диппер и Мэйбл проводят лето у своего дяди Стэна в городке Гравити Фолз, где происходят странные и загадочные события."
+      },
+      "letterboxd": {
+        "id": "gravity-falls",
+        "rating": 4.3
+      }
     },
     {
-      id: 104,
-      title: 'Реальные парни',
-      originalTitle: 'Blue Mountain State',
-      year: 2010,
-      genres: ['Комедия', 'Спорт'],
-      description: 'О жизни студентов-футболистов колледжа.',
-      posterUrl: 'https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7930922_b_v8_ac.jpg',
+      "id": 89,
+      "title": "Удивительные странствия Геракла",
+      "originalTitle": "Hercules: The Legendary Journeys",
+      "year": 1995,
+      "genres": ["Фэнтези", "Приключения"],
+      "description": "Приключения Геракла в древнегреческом мире.",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ae24Rd8nJGKKb8yYkb5gk8PVGlOgRLfZRw&s",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/hercules-the-legendary-journeys-1200-1200-675-675-crop-000000.jpg",
       type: MediaType.SERIES,
-      seasons: 3
+      "seriesInfo": {
+        "seasons": 6,
+        "episodes": 111,
+        "endYear": 1999
+      },
+      "imdb": {
+        "id": "tt0111999",
+        "rating": 6.7,
+        "genres": ["Action", "Adventure", "Fantasy"]
+      },
+      "kinopoisk": {
+        "id": "83805",
+        "rating": 7.5,
+        "genres": ["Фэнтези", "Приключения"],
+        "description": "Сериал рассказывает о приключениях древнегреческого героя Геракла, который странствует по миру, помогая людям и сражаясь с мифическими чудовищами."
+      },
+      "letterboxd": {
+        "id": "hercules-the-legendary-journeys",
+        "rating": 3.1
+      }
     },
     {
-      id: 105,
-      title: 'Блудливая Калифорния',
-      originalTitle: 'Californication',
-      year: 2007,
-      genres: ['Комедия', 'Драма'],
-      description: 'О писателе Хэнке Муди и его хаотичной жизни в Лос-Анджелесе.',
-      posterUrl: 'https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7895125_b_v13_aa.jpg',
+      "id": 90,
+      "title": "Карточный домик",
+      "originalTitle": "House of Cards",
+      "year": 2013,
+      "genres": ["Драма", "Политика"],
+      "description": "О беспринципном конгресмене Фрэнке Андервуде.",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_.jpg",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/house-of-cards-1200-1200-675-675-crop-000000.jpg",
       type: MediaType.SERIES,
-      seasons: 7
+      "seriesInfo": {
+        "seasons": 6,
+        "episodes": 73,
+        "endYear": 2018
+      },
+      "imdb": {
+        "id": "tt1856010",
+        "rating": 8.7,
+        "genres": ["Drama"]
+      },
+      "kinopoisk": {
+        "id": "535341",
+        "rating": 8.2,
+        "genres": ["Драма", "Политика"],
+        "description": "Амбициозный конгрессмен Фрэнк Андервуд и его жена Клэр готовы на всё, чтобы добиться власти в Вашингтоне."
+      },
+      "letterboxd": {
+        "id": "house-of-cards",
+        "rating": 3.9
+      }
     },
     {
-      id: 106,
-      title: 'Утиные истории',
-      originalTitle: 'DuckTales',
-      year: 2017,
-      genres: ['Мультфильм', 'Приключения', 'Комедия'],
-      description: 'Современная адаптация классического мультсериала.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BNTA2NTc5MzQwNV5BMl5BanBnXkFtZTgwOTY2ODI2MjI@._V1_FMjpg_UX1000_.jpg',
+      "id": 91,
+      "title": "Полиция Майами",
+      "originalTitle": "Miami Vice",
+      "year": 1984,
+      "genres": ["Криминал", "Драма"],
+      "description": "Культовый сериал о двух детективах под прикрытием.",
+      "posterUrl": "https://resizing.flixster.com/e9eUsEHrrGMruRp-qMFoev2yfko=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p183928_i_v9_ab.jpg",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/miami-vice-1200-1200-675-675-crop-000000.jpg",
       type: MediaType.SERIES,
-      seasons: 3
+      "seriesInfo": {
+        "seasons": 5,
+        "episodes": 111,
+        "endYear": 1989
+      },
+      "imdb": {
+        "id": "tt0086759",
+        "rating": 7.6,
+        "genres": ["Action", "Crime", "Drama"]
+      },
+      "kinopoisk": {
+        "id": "83805",
+        "rating": 7.9,
+        "genres": ["Криминал", "Драма"],
+        "description": "Детективы Сонни Крокет и Рико Таббс работают под прикрытием в отделе по борьбе с наркотиками полиции Майами."
+      },
+      "letterboxd": {
+        "id": "miami-vice",
+        "rating": 3.5
+      }
     },
     {
-      id: 107,
-      title: 'Красавцы',
-      originalTitle: 'Entourage',
-      year: 2004,
-      genres: ['Комедия', 'Драма'],
-      description: 'О молодом актере и его друзьях в Голливуде.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BZjEyYWJlMDktNGEwMi00OTRjLWE4YzgtOTMwNDc0NzQzMDlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
+      "id": 92,
+      "title": "Детективное агентство «Лунный свет»",
+      "originalTitle": "Moonlighting",
+      "year": 1985,
+      "genres": ["Комедия", "Детектив"],
+      "description": "О частных детективах Мэдди и Дэвиде.",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzUyNzMzMDctOTAwYi00MzgwLWIyODUtNjgyMmEyY2EzYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/moonlighting-1200-1200-675-675-crop-000000.jpg",
       type: MediaType.SERIES,
-      seasons: 8
+      "seriesInfo": {
+        "seasons": 5,
+        "episodes": 66,
+        "endYear": 1989
+      },
+      "imdb": {
+        "id": "tt0088576",
+        "rating": 7.8,
+        "genres": ["Comedy", "Drama", "Mystery"]
+      },
+      "kinopoisk": {
+        "id": "83805",
+        "rating": 8.0,
+        "genres": ["Комедия", "Детектив"],
+        "description": "Бывшая модель Мэдди Хейс и харизматичный Дэвид Эддисон ведут детективное агентство «Лунный свет»."
+      },
+      "letterboxd": {
+        "id": "moonlighting",
+        "rating": 3.6
+      }
     },
     {
-      id: 108,
-      title: 'Хулиганы и ботаны',
-      originalTitle: 'Freaks and Geeks',
-      year: 1999,
-      genres: ['Комедия', 'Драма'],
-      description: 'Культовый сериал о школьниках 1980-х.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BNDk4MTRlZjMtYTMxYi00ZjdkLWEyYjYtZjg1NjBlMzY2MDIzXkEyXkFqcGc@._V1_.jpg',
+      "id": 93,
+      "title": "Мистер Робот",
+      "originalTitle": "Mr. Robot",
+      "year": 2015,
+      "genres": ["Триллер", "Драма", "Киберпанк"],
+      "description": "Хакер Эллиот пытается изменить мир.",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8ZaprxvWUtksGRD_FZhknNiJNPjEovTYSg&s",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/mr-robot-1200-1200-675-675-crop-000000.jpg",
       type: MediaType.SERIES,
-      seasons: 1
+      "seriesInfo": {
+        "seasons": 4,
+        "episodes": 45,
+        "endYear": 2019
+      },
+      "imdb": {
+        "id": "tt4158110",
+        "rating": 8.5,
+        "genres": ["Crime", "Drama", "Thriller"]
+      },
+      "kinopoisk": {
+        "id": "535341",
+        "rating": 8.6,
+        "genres": ["Триллер", "Драма", "Киберпанк"],
+        "description": "Эллиот Алдерсон — молодой инженер кибербезопасности и хакер, страдающий от социальной тревожности и клинической депрессии."
+      },
+      "letterboxd": {
+        "id": "mr-robot",
+        "rating": 4.1
+      }
     },
     {
-      id: 109,
-      title: 'Гравити Фолз',
-      originalTitle: 'Gravity Falls',
-      year: 2012,
-      genres: ['Мультфильм', 'Мистика', 'Комедия'],
-      description: 'Близнецы исследуют аномалии в городке Гравити Фолз.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_FMjpg_UX1000_.jpg',
+      "id": 94,
+      "title": "Детектив Нэш Бриджес",
+      "originalTitle": "Nash Bridges",
+      "year": 1996,
+      "genres": ["Криминал", "Драма"],
+      "description": "О работе инспектора полиции Сан-Франциско.",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjE3MTY2NjA1N15BMl5BanBnXkFtZTcwOTY4MjY5MQ@@._V1_.jpg",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/nash-bridges-1200-1200-675-675-crop-000000.jpg",
       type: MediaType.SERIES,
-      seasons: 2
+      "seriesInfo": {
+        "seasons": 6,
+        "episodes": 122,
+        "endYear": 2001
+      },
+      "imdb": {
+        "id": "tt0115270",
+        "rating": 6.5,
+        "genres": ["Action", "Comedy", "Crime"]
+      },
+      "kinopoisk": {
+        "id": "83805",
+        "rating": 7.1,
+        "genres": ["Криминал", "Драма"],
+        "description": "Инспектор Нэш Бриджес возглавляет специальный отряд полиции Сан-Франциско."
+      },
+      "letterboxd": {
+        "id": "nash-bridges",
+        "rating": 3.0
+      }
     },
     {
-      id: 110,
-      title: 'Удивительные странствия Геракла',
-      originalTitle: 'Hercules: The Legendary Journeys',
-      year: 1995,
-      genres: ['Фэнтези', 'Приключения'],
-      description: 'Приключения Геракла в древнегреческом мире.',
-      posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ae24Rd8nJGKKb8yYkb5gk8PVGlOgRLfZRw&s',
+      "id": 95,
+      "title": "Новенькая",
+      "originalTitle": "New Girl",
+      "year": 2011,
+      "genres": ["Комедия"],
+      "description": "Девушка Джесс переезжает жить к трем парням.",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTQ5MzM1NzMwMl5BMl5BanBnXkFtZTgwNjQ2MzI2NzE@._V1_.jpg",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/new-girl-1200-1200-675-675-crop-000000.jpg",
       type: MediaType.SERIES,
-      seasons: 6
+      "seriesInfo": {
+        "seasons": 7,
+        "episodes": 146,
+        "endYear": 2018
+      },
+      "imdb": {
+        "id": "tt1826940",
+        "rating": 7.7,
+        "genres": ["Comedy", "Romance"]
+      },
+      "kinopoisk": {
+        "id": "535341",
+        "rating": 7.9,
+        "genres": ["Комедия"],
+        "description": "После расставания с парнем жизнерадостная Джесс переезжает в квартиру к трем незнакомым парням."
+      },
+      "letterboxd": {
+        "id": "new-girl",
+        "rating": 3.7
+      }
     },
     {
-      id: 111,
-      title: 'Карточный домик',
-      originalTitle: 'House of Cards',
-      year: 2013,
-      genres: ['Драма', 'Политика'],
-      description: 'О беспринципном конгресмене Фрэнке Андервуде.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BMTQ4MDczNDYwNV5BMl5BanBnXkFtZTcwNjMwMDk5OA@@._V1_.jpg',
+      "id": 96,
+      "title": "Пси Фактор: Хроники паранормальных явлений",
+      "originalTitle": "Psi Factor",
+      "year": 1996,
+      "genres": ["Фантастика", "Мистика"],
+      "description": "О расследованиях паранормальных явлений.",
+      "posterUrl": "https://www.kinonews.ru/insimgs/2023/poster/poster115636_1.webp",
+      "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/psi-factor-1200-1200-675-675-crop-000000.jpg",
       type: MediaType.SERIES,
-      seasons: 6
+      "seriesInfo": {
+        "seasons": 4,
+        "episodes": 88,
+        "endYear": 2000
+      },
+      "imdb": {
+        "id": "tt0115341",
+        "rating": 6.8,
+        "genres": ["Drama", "Horror", "Mystery"]
+      },
+      "kinopoisk": {
+        "id": "83805",
+        "rating": 7.2,
+        "genres": ["Фантастика", "Мистика"],
+        "description": "Команда учёных исследует паранормальные явления по всему миру."
+      },
+      "letterboxd": {
+        "id": "psi-factor",
+        "rating": 3.2
+      }
+    },
+
+    {
+        "id": 97,
+        "title": "Рик и Морти",
+        "originalTitle": "Rick and Morty",
+        "year": 2013,
+        "genres": ["Мультфильм", "Фантастика", "Комедия"],
+        "description": "Безумные приключения ученого и его внука.",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/rick-and-morty-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 6,
+            "episodes": 61,
+            "endYear": 2023
+        },
+        "imdb": {
+            "id": "tt2861424",
+            "rating": 9.1,
+            "genres": ["Animation", "Adventure", "Comedy"]
+        },
+        "kinopoisk": {
+            "id": "685540",
+            "rating": 9.0,
+            "genres": ["Мультфильм", "Фантастика", "Комедия"],
+            "description": "Сумасшедшие приключения циничного гениального ученого Рика Санчеза и его наивного, но храброго внука Морти Смита."
+        },
+        "letterboxd": {
+            "id": "rick-and-morty",
+            "rating": 4.5
+        }
     },
     {
-      id: 113,
-      title: 'Полиция Майами',
-      originalTitle: 'Miami Vice',
-      year: 1984,
-      genres: ['Криминал', 'Драма'],
-      description: 'Культовый сериал о двух детективах под прикрытием.',
-      posterUrl: 'https://resizing.flixster.com/e9eUsEHrrGMruRp-qMFoev2yfko=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p183928_i_v9_ab.jpg',
-      type: MediaType.SERIES,
-      seasons: 5
+        "id": 98,
+        "title": "Клиника",
+        "originalTitle": "Scrubs",
+        "year": 2001,
+        "genres": ["Комедия", "Драма", "Ситком"],
+        "description": "О буднях врачей больницы Сакред Харт.",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDYwNTk4YzEtMTRjNS00YWZjLTlkOWYtYzFlYWQyMjU2ZjkwXkEyXkFqcGc@._V1_.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/scrubs-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 9,
+            "episodes": 182,
+            "endYear": 2010
+        },
+        "imdb": {
+            "id": "tt0285403",
+            "rating": 8.4,
+            "genres": ["Comedy", "Drama"]
+        },
+        "kinopoisk": {
+            "id": "83805",
+            "rating": 8.6,
+            "genres": ["Комедия", "Драма", "Ситком"],
+            "description": "Молодой доктор Джон Дориан начинает свою медицинскую практику в больнице Сакред Харт, где его ждут не только профессиональные испытания, но и забавные ситуации."
+        },
+        "letterboxd": {
+            "id": "scrubs",
+            "rating": 4.0
+        }
     },
     {
-      id: 114,
-      title: 'Детективное агентство «Лунный свет»',
-      originalTitle: 'Moonlighting',
-      year: 1985,
-      genres: ['Комедия', 'Детектив'],
-      description: 'О частных детективах Мэдди и Дэвиде.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BMzUyNzMzMDctOTAwYi00MzgwLWIyODUtNjgyMmEyY2EzYjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
-      type: MediaType.SERIES,
-      seasons: 5
+        "id": 99,
+        "title": "Терапия",
+        "originalTitle": "Shrinking",
+        "year": 2023,
+        "genres": ["Комедия", "Драма"],
+        "description": "Терапевт начинает говорить пациентам правду.",
+        "posterUrl": "https://resizing.flixster.com/ZOo1dmJSS7i_BKnjxx66Pv7Ag6s=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMDQ4ZTM1ZjQtNWE0Zi00NGY0LWI3ZTItMjAzYjExOGRiZjViLmpwZw==",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/shrinking-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 1,
+            "episodes": 10,
+            "endYear": 2023
+        },
+        "imdb": {
+            "id": "tt15677150",
+            "rating": 7.9,
+            "genres": ["Comedy", "Drama"]
+        },
+        "kinopoisk": {
+            "id": "1395869",
+            "rating": 7.7,
+            "genres": ["Комедия", "Драма"],
+            "description": "Терапевт Джимми переживает личную трагедию и решает радикально изменить подход к работе, начав говорить пациентам жесткую правду."
+        },
+        "letterboxd": {
+            "id": "shrinking",
+            "rating": 3.8
+        }
     },
     {
-      id: 115,
-      title: 'Мистер Робот',
-      originalTitle: 'Mr. Robot',
-      year: 2015,
-      genres: ['Триллер', 'Драма', 'Киберпанк'],
-      description: 'Хакер Эллиот пытается изменить мир.',
-      posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu8ZaprxvWUtksGRD_FZhknNiJNPjEovTYSg&s',
-      type: MediaType.SERIES,
-      seasons: 4
+        "id": 100,
+        "title": "Снегопад",
+        "originalTitle": "Snowfall",
+        "year": 2017,
+        "genres": ["Криминал", "Драма"],
+        "description": "О эпидемии крэка в Лос-Анджелесе 1980-х.",
+        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAl0JS9PiK20l5N-y7Qkbf0eLh1KqK-U8Sw&s",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/snowfall-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 6,
+            "episodes": 60,
+            "endYear": 2023
+        },
+        "imdb": {
+            "id": "tt6439752",
+            "rating": 8.5,
+            "genres": ["Crime", "Drama"]
+        },
+        "kinopoisk": {
+            "id": "1045582",
+            "rating": 8.1,
+            "genres": ["Криминал", "Драма"],
+            "description": "Сериал рассказывает о начале эпидемии крэка в Лос-Анджелесе в 1980-х годах и людях, чьи судьбы переплелись с наркоторговлей."
+        },
+        "letterboxd": {
+            "id": "snowfall",
+            "rating": 4.1
+        }
     },
     {
-      id: 116,
-      title: 'Детектив Нэш Бриджес',
-      originalTitle: 'Nash Bridges',
-      year: 1996,
-      genres: ['Криминал', 'Драма'],
-      description: 'О работе инспектора полиции Сан-Франциско.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BMjE3MTY2NjA1N15BMl5BanBnXkFtZTcwOTY4MjY5MQ@@._V1_.jpg',
-      type: MediaType.SERIES,
-      seasons: 6
+        "id": 101,
+        "title": "Southland",
+        "originalTitle": "Southland",
+        "year": 2009,
+        "genres": ["Криминал", "Драма"],
+        "description": "Реалистичный взгляд на работу полиции Лос-Анджелеса.",
+        "posterUrl": "https://preview.redd.it/southland-2009-2013-v0-5uyj62hdjybd1.jpeg?auto=webp&s=9342b45c91c3a3cd10136e2f7508b02f29c2a4e2",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/southland-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 5,
+            "episodes": 43,
+            "endYear": 2013
+        },
+        "imdb": {
+            "id": "tt1245112",
+            "rating": 8.4,
+            "genres": ["Crime", "Drama"]
+        },
+        "kinopoisk": {
+            "id": "435756",
+            "rating": 8.3,
+            "genres": ["Криминал", "Драма"],
+            "description": "Реалистичная драма о буднях полицейских Лос-Анджелеса, показывающая их работу без прикрас."
+        },
+        "letterboxd": {
+            "id": "southland",
+            "rating": 3.9
+        }
     },
     {
-      id: 117,
-      title: 'Новенькая',
-      originalTitle: 'New Girl',
-      year: 2011,
-      genres: ['Комедия'],
-      description: 'Девушка Джесс переезжает жить к трем парням.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BMTQ5MzM1NzMwMl5BMl5BanBnXkFtZTgwNjQ2MzI2NzE@._V1_.jpg',
-      type: MediaType.SERIES,
-      seasons: 7
+        "id": 102,
+        "title": "Stranger Things",
+        "originalTitle": "Stranger Things",
+        "year": 2016,
+        "genres": ["Фантастика", "Ужасы", "Драма"],
+        "description": "Дети сталкиваются с сверхъестественными явлениями.",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/stranger-things-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 4,
+            "episodes": 34,
+            "endYear": 2022
+        },
+        "imdb": {
+            "id": "tt4574334",
+            "rating": 8.7,
+            "genres": ["Drama", "Fantasy", "Horror"]
+        },
+        "kinopoisk": {
+            "id": "1045582",
+            "rating": 8.6,
+            "genres": ["Фантастика", "Ужасы", "Драма"],
+            "description": "В маленьком городке исчезает мальчик, и его друзья сталкиваются с таинственными явлениями, связанными с секретными экспериментами правительства."
+        },
+        "letterboxd": {
+            "id": "stranger-things",
+            "rating": 4.3
+        }
     },
     {
-      id: 118,
-      title: 'Пси Фактор: Хроники паранормальных явлений',
-      originalTitle: 'Psi Factor',
-      year: 1996,
-      genres: ['Фантастика', 'Мистика'],
-      description: 'О расследованиях паранормальных явлений.',
-      posterUrl: 'https://www.kinonews.ru/insimgs/2023/poster/poster115636_1.webp',
-      type: MediaType.SERIES,
-      seasons: 4
+        "id": 103,
+        "title": "Сверхъестественное",
+        "originalTitle": "Supernatural",
+        "year": 2005,
+        "genres": ["Фэнтези", "Ужасы", "Драма"],
+        "description": "Братья Винчестеры охотятся на нечисть.",
+        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4d6ZXc0m64u2MGYJ-hfc6mDdpZq5fTkgd98dGj_-pWxgxLe06aZVuiFDFgInkra99bPk&usqp=CAU",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/supernatural-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 15,
+            "episodes": 327,
+            "endYear": 2020
+        },
+        "imdb": {
+            "id": "tt0460681",
+            "rating": 8.4,
+            "genres": ["Drama", "Fantasy", "Horror"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 8.4,
+            "genres": ["Фэнтези", "Ужасы", "Драма"],
+            "description": "Братья Сэм и Дин Винчестеры путешествуют по Америке, расследуя паранормальные явления и сражаясь с демонами, призраками и другими сверхъестественными существами."
+        },
+        "letterboxd": {
+            "id": "supernatural",
+            "rating": 3.9
+        }
     },
     {
-      id: 119,
-      title: 'Рик и Морти',
-      originalTitle: 'Rick and Morty',
-      year: 2013,
-      genres: ['Мультфильм', 'Фантастика', 'Комедия'],
-      description: 'Безумные приключения ученого и его внука.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg',
-      type: MediaType.SERIES,
-      seasons: 6
+        "id": 104,
+        "title": "Двойка",
+        "originalTitle": "The Deuce",
+        "year": 2017,
+        "genres": ["Драма", "Криминал"],
+        "description": "О зарождении порноиндустрии в Нью-Йорке 1970-х.",
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/ru/2/2e/The_Deuce_%28TV_series%29.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/the-deuce-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 3,
+            "episodes": 25,
+            "endYear": 2019
+        },
+        "imdb": {
+            "id": "tt4998350",
+            "rating": 8.0,
+            "genres": ["Drama"]
+        },
+        "kinopoisk": {
+            "id": "1045582",
+            "rating": 7.8,
+            "genres": ["Драма", "Криминал"],
+            "description": "Сериал рассказывает о зарождении порноиндустрии в Нью-Йорке 1970-х годов и людях, которые стояли у ее истоков."
+        },
+        "letterboxd": {
+            "id": "the-deuce",
+            "rating": 3.7
+        }
     },
     {
-      id: 120,
-      title: 'Клиника',
-      originalTitle: 'Scrubs',
-      year: 2001,
-      genres: ['Комедия', 'Драма', 'Ситком'],
-      description: 'О буднях врачей больницы Сакред Харт.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BZDYwNTk4YzEtMTRjNS00YWZjLTlkOWYtYzFlYWQyMjU2ZjkwXkEyXkFqcGc@._V1_.jpg',
-      type: MediaType.SERIES,
-      seasons: 9
+        "id": 105,
+        "title": "Клан Сопрано",
+        "originalTitle": "The Sopranos",
+        "year": 1999,
+        "genres": ["Криминал", "Драма"],
+        "description": "Классический сериал о мафиозной семье.",
+        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9GuggQnlxBgQ3W7HwN7fDZokY8tNzl6trQ&s",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/the-sopranos-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 6,
+            "episodes": 86,
+            "endYear": 2007
+        },
+        "imdb": {
+            "id": "tt0141842",
+            "rating": 9.2,
+            "genres": ["Crime", "Drama"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 9.1,
+            "genres": ["Криминал", "Драма"],
+            "description": "Тони Сопрано - глава мафиозной семьи из Нью-Джерси, который пытается балансировать между криминальным миром и семейными проблемами, посещая психотерапевта."
+        },
+        "letterboxd": {
+            "id": "the-sopranos",
+            "rating": 4.6
+        }
     },
     {
-      id: 121,
-      title: 'Терапия',
-      originalTitle: 'Shrinking',
-      year: 2023,
-      genres: ['Комедия', 'Драма'],
-      description: 'Терапевт начинает говорить пациентам правду.',
-      posterUrl: 'https://resizing.flixster.com/ZOo1dmJSS7i_BKnjxx66Pv7Ag6s=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMDQ4ZTM1ZjQtNWE0Zi00NGY0LWI3ZTItMjAzYjExOGRiZjViLmpwZw==',
-      type: MediaType.SERIES,
-      seasons: 1
+        "id": 106,
+        "title": "Прослушка",
+        "originalTitle": "The Wire",
+        "year": 2002,
+        "genres": ["Криминал", "Драма"],
+        "description": "Реалистичный взгляд на наркоторговлю в Балтиморе.",
+        "posterUrl": "https://m.media-amazon.com/images/I/81ucKbnIugS._UF894,1000_QL80_.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/the-wire-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 5,
+            "episodes": 60,
+            "endYear": 2008
+        },
+        "imdb": {
+            "id": "tt0306414",
+            "rating": 9.3,
+            "genres": ["Crime", "Drama", "Thriller"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 9.2,
+            "genres": ["Криминал", "Драма"],
+            "description": "Многослойный реалистичный взгляд на наркоторговлю в Балтиморе, показывающий проблему с разных сторон: полиции, наркодилеров, политиков и обычных жителей."
+        },
+        "letterboxd": {
+            "id": "the-wire",
+            "rating": 4.7
+        }
     },
     {
-      id: 122,
-      title: 'Снегопад',
-      originalTitle: 'Snowfall',
-      year: 2017,
-      genres: ['Криминал', 'Драма'],
-      description: 'О эпидемии крэка в Лос-Анджелесе 1980-х.',
-      posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAl0JS9PiK20l5N-y7Qkbf0eLh1KqK-U8Sw&s',
-      type: MediaType.SERIES,
-      seasons: 6
+        "id": 107,
+        "title": "The X-Files",
+        "originalTitle": "The X-Files",
+        "year": 1993,
+        "genres": ["Фантастика", "Мистика", "Драма"],
+        "description": "Агенты ФБР расследуют паранормальные явления.",
+        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaju3E3ZFFWsdPkilth4f4pGB3HlbSTHKVQ&s",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/the-x-files-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 11,
+            "episodes": 218,
+            "endYear": 2018
+        },
+        "imdb": {
+            "id": "tt0106179",
+            "rating": 8.6,
+            "genres": ["Crime", "Drama", "Mystery"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 8.7,
+            "genres": ["Фантастика", "Мистика", "Драма"],
+            "description": "Агенты ФБР Фокс Малдер и Дана Скалли расследуют необъяснимые дела, связанные с паранормальными явлениями, заговорами и внеземными цивилизациями."
+        },
+        "letterboxd": {
+            "id": "the-x-files",
+            "rating": 4.2
+        }
     },
     {
-      id: 123,
-      title: 'Southland',
-      originalTitle: 'Southland',
-      year: 2009,
-      genres: ['Криминал', 'Драма'],
-      description: 'Реалистичный взгляд на работу полиции Лос-Анджелеса.',
-      posterUrl: 'https://preview.redd.it/southland-2009-2013-v0-5uyj62hdjybd1.jpeg?auto=webp&s=9342b45c91c3a3cd10136e2f7508b02f29c2a4e2',
-      type: MediaType.SERIES,
-      seasons: 5
+        "id": 108,
+        "title": "Теория большого взрыва",
+        "originalTitle": "The Big Bang Theory",
+        "year": 2007,
+        "genres": ["Комедия", "Ситком"],
+        "description": "О жизни группы друзей-ученых.",
+        "posterUrl": "https://m.media-amazon.com/images/I/71qKFGIrv2L._UF1000,1000_QL80_.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/the-big-bang-theory-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 12,
+            "episodes": 279,
+            "endYear": 2019
+        },
+        "imdb": {
+            "id": "tt0898266",
+            "rating": 8.1,
+            "genres": ["Comedy", "Romance"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 8.3,
+            "genres": ["Комедия", "Ситком"],
+            "description": "История двух блестящих физиков-теоретиков, их друзей и соседки, которая мечтает стать актрисой и совершенно не разбирается в науке."
+        },
+        "letterboxd": {
+            "id": "the-big-bang-theory",
+            "rating": 3.5
+        }
     },
     {
-      id: 124,
-      title: 'Stranger Things',
-      originalTitle: 'Stranger Things',
-      year: 2016,
-      genres: ['Фантастика', 'Ужасы', 'Драма'],
-      description: 'Дети сталкиваются с сверхъестественными явлениями.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg',
-      type: MediaType.SERIES,
-      seasons: 4
+        "id": 109,
+        "title": "Бывает и хуже",
+        "originalTitle": "The Middle",
+        "year": 2009,
+        "genres": ["Комедия"],
+        "description": "О жизни средней американской семьи.",
+        "posterUrl": "https://m.media-amazon.com/images/I/919165pXYHL._UF1000,1000_QL80_.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/the-middle-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 9,
+            "episodes": 215,
+            "endYear": 2018
+        },
+        "imdb": {
+            "id": "tt1442464",
+            "rating": 7.6,
+            "genres": ["Comedy", "Family"]
+        },
+        "kinopoisk": {
+            "id": "435756",
+            "rating": 7.8,
+            "genres": ["Комедия"],
+            "description": "Ситком о жизни семьи Хек из маленького городка в Индиане, которая пытается свести концы с концами и сохранить семью в условиях постоянного кризиса."
+        },
+        "letterboxd": {
+            "id": "the-middle",
+            "rating": 3.4
+        }
     },
     {
-      id: 125,
-      title: 'Сверхъестественное',
-      originalTitle: 'Supernatural',
-      year: 2005,
-      genres: ['Фэнтези', 'Ужасы', 'Драма'],
-      description: 'Братья Винчестеры охотятся на нечисть.',
-      posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4d6ZXc0m64u2MGYJ-hfc6mDdpZq5fTkgd98dGj_-pWxgxLe06aZVuiFDFgInkra99bPk&usqp=CAU',
-      type: MediaType.SERIES,
-      seasons: 15
+        "id": 110,
+        "title": "Щит",
+        "originalTitle": "The Shield",
+        "year": 2002,
+        "genres": ["Криминал", "Драма"],
+        "description": "О коррумпированном полицейском отряде.",
+        "posterUrl": "https://ru-images.kinorium.com/movie/200/229716.jpg?1667345472",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/the-shield-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 7,
+            "episodes": 88,
+            "endYear": 2008
+        },
+        "imdb": {
+            "id": "tt0286486",
+            "rating": 8.7,
+            "genres": ["Crime", "Drama", "Thriller"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 8.5,
+            "genres": ["Криминал", "Драма"],
+            "description": "Вик Мэкки - лидер ударного отряда полиции Лос-Анджелеса, который использует незаконные методы борьбы с преступностью, переступая грань между законом и беззаконием."
+        },
+        "letterboxd": {
+            "id": "the-shield",
+            "rating": 4.3
+        }
     },
     {
-      id: 126,
-      title: 'Двойка',
-      originalTitle: 'The Deuce',
-      year: 2017,
-      genres: ['Драма', 'Криминал'],
-      description: 'О зарождении порноиндустрии в Нью-Йорке 1970-х.',
-      posterUrl: 'https://upload.wikimedia.org/wikipedia/ru/2/2e/The_Deuce_%28TV_series%29.jpg',
-      type: MediaType.SERIES,
-      seasons: 3
+        "id": 111,
+        "title": "Два с половиной человека",
+        "originalTitle": "Two and a Half Men",
+        "year": 2003,
+        "genres": ["Комедия", "Ситком"],
+        "description": "О непохожих братьях и сыне одного из них.",
+        "posterUrl": "https://static.thcdn.com/images/large/original/productimg/960/960/8430268-1904324891893852.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/two-and-a-half-men-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 12,
+            "episodes": 262,
+            "endYear": 2015
+        },
+        "imdb": {
+            "id": "tt0369179",
+            "rating": 7.0,
+            "genres": ["Comedy"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 7.5,
+            "genres": ["Комедия", "Ситком"],
+            "description": "Богатый донжуан Чарли Харпер и его занудный брат Алан, который после развода переезжает к нему с сыном Джейком, вынуждены жить вместе в одном доме в Малибу."
+        },
+        "letterboxd": {
+            "id": "two-and-a-half-men",
+            "rating": 2.9
+        }
     },
     {
-      id: 127,
-      title: 'Клан Сопрано',
-      originalTitle: 'The Sopranos',
-      year: 1999,
-      genres: ['Криминал', 'Драма'],
-      description: 'Классический сериал о мафиозной семье.',
-      posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9GuggQnlxBgQ3W7HwN7fDZokY8tNzl6trQ&s',
-      type: MediaType.SERIES,
-      seasons: 6
+        "id": 112,
+        "title": "В глуши",
+        "originalTitle": "Untamed",
+        "year": 2025,
+        "genres": ["Триллер", "Драма", "Криминал", "Детектив"],
+        "description": "Расследование в лесах Йосемити или когда «Настоящий детектив» заблудился в «Йеллоустоуне». Работник Йосемитского национального парка Кайл Тернер расследует жестокое убийство на территории калифорнийского заповедника.",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BODkxMDM5YWItNDcxZi00NjQ3LWE3NzMtNjM0MzgyNWM0MDhhXkEyXkFqcGc@._V1_.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/untamed-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 1,
+            "episodes": 8,
+            "endYear": 2025
+        },
+        "imdb": {
+            "id": "tt12345678",
+            "rating": undefined,
+            "genres": ["Drama", "Thriller"]
+        },
+        "kinopoisk": {
+            "id": "1395869",
+            "rating": undefined,
+            "genres": ["Триллер", "Драма", "Криминал", "Детектив"],
+            "description": "Новый сериал от создателей «Настоящего детектива» о расследовании убийства в национальном парке Йосемити, где переплетаются человеческие драмы и тайны дикой природы."
+        },
+        "letterboxd": {
+            "id": "untamed",
+            "rating": undefined
+        }
     },
     {
-      id: 128,
-      title: 'Прослушка',
-      originalTitle: 'The Wire',
-      year: 2002,
-      genres: ['Криминал', 'Драма'],
-      description: 'Реалистичный взгляд на наркоторговлю в Балтиморе.',
-      posterUrl: 'https://m.media-amazon.com/images/I/81ucKbnIugS._UF894,1000_QL80_.jpg',
-      type: MediaType.SERIES,
-      seasons: 5
+        "id": 113,
+        "title": "Винил",
+        "originalTitle": "Vinyl",
+        "year": 2016,
+        "genres": ["Драма", "Музыка"],
+        "description": "О музыкальной индустрии 1970-х в Нью-Йорке.",
+        "posterUrl": "https://images.justwatch.com/poster/183519255/s718/vinyl.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/vinyl-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 1,
+            "episodes": 10,
+            "endYear": 2016
+        },
+        "imdb": {
+            "id": "tt3560060",
+            "rating": 7.4,
+            "genres": ["Drama", "Music"]
+        },
+        "kinopoisk": {
+            "id": "1045582",
+            "rating": 7.2,
+            "genres": ["Драма", "Музыка"],
+            "description": "Нью-Йорк, 1970-е. Ричи Финестра - владелец звукозаписывающей компании, который пытается спасти свой бизнес и найти новое звучание в эпоху расцвета рок-н-ролла."
+        },
+        "letterboxd": {
+            "id": "vinyl",
+            "rating": 3.3
+        }
     },
     {
-      id: 129,
-      title: 'The X-Files',
-      originalTitle: 'The X-Files',
-      year: 1993,
-      genres: ['Фантастика', 'Мистика', 'Драма'],
-      description: 'Агенты ФБР расследуют паранормальные явления.',
-      posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaju3E3ZFFWsdPkilth4f4pGB3HlbSTHKVQ&s',
-      type: MediaType.SERIES,
-      seasons: 11
+        "id": 114,
+        "title": "Безумная любовь",
+        "originalTitle": "Mad love",
+        "year": 2011,
+        "genres": ["Драма", "Мелодрама"],
+        "description": "Российский сериал о сложных отношениях.",
+        "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/c577306e-dc46-4a82-a85b-2d17ec3eccf9/600x900",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/mad-love-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 1,
+            "episodes": 13,
+            "endYear": 2011
+        },
+        "imdb": {
+            "id": "tt1837576",
+            "rating": 6.5,
+            "genres": ["Drama", "Romance"]
+        },
+        "kinopoisk": {
+            "id": "435756",
+            "rating": 6.8,
+            "genres": ["Драма", "Мелодрама"],
+            "description": "История сложных взаимоотношений двух пар, чьи жизни переплетаются из-за любовного треугольника и семейных тайн."
+        },
+        "letterboxd": {
+            "id": "mad-love",
+            "rating": 2.8
+        }
     },
     {
-      id: 130,
-      title: 'Теория большого взрыва',
-      originalTitle: 'The Big Bang Theory',
-      year: 2007,
-      genres: ['Комедия', 'Ситком'],
-      description: 'О жизни группы друзей-ученых.',
-      posterUrl: 'https://m.media-amazon.com/images/I/71qKFGIrv2L._UF1000,1000_QL80_.jpg',
-      type: MediaType.SERIES,
-      seasons: 12
+        "id": 115,
+        "title": "Как я встретил вашу маму",
+        "originalTitle": "How I Met Your Mother",
+        "year": 2005,
+        "genres": ["Комедия", "Романтика", "Ситком"],
+        "description": "комедийный сериал о приключениях Теда Мосби и его друзей в Нью-Йорке. Через забавные и трогательные истории Тед рассказывает детям, как встретил их маму, раскрывая секреты дружбы, любви и взросления. Идеальный выбор для тех, кто любит лёгкий юмор и душевные моменты!",
+        "posterUrl": "https://www.kino-teatr.ru/movie/posters/big/5/6/20165.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/how-i-met-your-mother-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 9,
+            "episodes": 208,
+            "endYear": 2014
+        },
+        "imdb": {
+            "id": "tt0460649",
+            "rating": 8.3,
+            "genres": ["Comedy", "Romance"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 8.5,
+            "genres": ["Комедия", "Романтика", "Ситком"],
+            "description": "Тед Мосби рассказывает своим детям историю о том, как он встретил их мать, вспоминая свои приключения в Нью-Йорке вместе с друзьями."
+        },
+        "letterboxd": {
+            "id": "how-i-met-your-mother",
+            "rating": 3.7
+        }
     },
     {
-      id: 131,
-      title: 'Бывает и хуже',
-      originalTitle: 'The Middle',
-      year: 2009,
-      genres: ['Комедия'],
-      description: 'О жизни средней американской семьи.',
-      posterUrl: 'https://m.media-amazon.com/images/I/919165pXYHL._UF1000,1000_QL80_.jpg',
-      type: MediaType.SERIES,
-      seasons: 9
+        "id": 116,
+        "title": "Киностудия",
+        "originalTitle": "The Studio",
+        "year": 2025,
+        "genres": ["Комедия"],
+        "description": "Продюсер Мэтт Ремик получает долгожданное повышение и становится главой кинокомпании Continental Studios. Его первый проект на новой должности — супергеройский дорогостоящий фильм, на который его босс возлагает большие надежды.",
+        "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/49fa0f44-c8da-4e24-b9bd-8839afb62e5f/600x900",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/the-studio-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 2,
+            "episodes": 16,
+            "endYear": 2026
+        },
+        "imdb": {
+            "id": "tt12345679",
+            "rating": undefined,
+            "genres": ["Comedy"]
+        },
+        "kinopoisk": {
+            "id": "1395870",
+            "rating": undefined,
+            "genres": ["Комедия"],
+            "description": "Сатирический взгляд на голливудскую киноиндустрию через призму работы кинокомпании Continental Studios и её нового главы Мэтта Ремика."
+        },
+        "letterboxd": {
+            "id": "the-studio",
+            "rating": undefined
+        }
+    },
+    
+    {
+        "id": 118,
+        "title": "Кремниевая долина",
+        "originalTitle": "Silicon Valley",
+        "year": 2014,
+        "genres": ["Комедия"],
+        "description": "О стартаперах в Кремниевой долине.",
+        "posterUrl": "https://ru-images.kinorium.com/movie/1080/679783.jpg?1652086465",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/silicon-valley-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 6,
+            "episodes": 53,
+            "endYear": 2019
+        },
+        "imdb": {
+            "id": "tt2575988",
+            "rating": 8.5,
+            "genres": ["Comedy"]
+        },
+        "kinopoisk": {
+            "id": "685540",
+            "rating": 8.4,
+            "genres": ["Комедия"],
+            "description": "Группа гиков пытается создать стартап в конкурентной среде Кремниевой долины, сталкиваясь с абсурдными ситуациями и корпоративными интригами."
+        },
+        "letterboxd": {
+            "id": "silicon-valley",
+            "rating": 4.0
+        }
     },
     {
-      id: 132,
-      title: 'Щит',
-      originalTitle: 'The Shield',
-      year: 2002,
-      genres: ['Криминал', 'Драма'],
-      description: 'О коррумпированном полицейском отряде.',
-      posterUrl: 'https://ru-images.kinorium.com/movie/200/229716.jpg?1667345472',
-      type: MediaType.SERIES,
-      seasons: 7
+        "id": 119,
+        "title": "Меломанка",
+        "originalTitle": "High Fidelity",
+        "year": 2020,
+        "genres": ["Драма", "Музыка"],
+        "description": "О девушке, работающей на виниловом заводе в 1990-х.",
+        "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/a59c97f5-ea4a-4708-a1d1-949a34dc3ba3/600x900",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/high-fidelity-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 1,
+            "episodes": 10,
+            "endYear": 2020
+        },
+        "imdb": {
+            "id": "tt8134470",
+            "rating": 7.3,
+            "genres": ["Comedy", "Drama", "Music"]
+        },
+        "kinopoisk": {
+            "id": "1236063",
+            "rating": 7.1,
+            "genres": ["Драма", "Музыка"],
+            "description": "Робин, владелица винилового магазина в Бруклине, пересматривает свои прошлые отношения под звуки любимых пластинок."
+        },
+        "letterboxd": {
+            "id": "high-fidelity",
+            "rating": 3.5
+        }
     },
     {
-      id: 133,
-      title: 'Два с половиной человека',
-      originalTitle: 'Two and a Half Men',
-      year: 2003,
-      genres: ['Комедия', 'Ситком'],
-      description: 'О непохожих братьях и сыне одного из них.',
-      posterUrl: 'https://static.thcdn.com/images/large/original/productimg/960/960/8430268-1904324891893852.jpg',
-      type: MediaType.SERIES,
-      seasons: 12
+        "id": 120,
+        "title": "Монстры корпораций",
+        "originalTitle": "Corporate",
+        "year": 2018,
+        "genres": ["Комедия"],
+        "description": "О абсурде корпоративной культуры.",
+        "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/591519e4-93c6-4047-8c76-26dba02e3393/600x900",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/corporate-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 3,
+            "episodes": 26,
+            "endYear": 2020
+        },
+        "imdb": {
+            "id": "tt6288124",
+            "rating": 7.3,
+            "genres": ["Comedy"]
+        },
+        "kinopoisk": {
+            "id": "1111111",
+            "rating": 7.0,
+            "genres": ["Комедия"],
+            "description": "Два сотрудника крупной корпорации Hampton DeVille пытаются сохранить рассудок в мире абсурдных корпоративных правил и бессмысленных инициатив."
+        },
+        "letterboxd": {
+            "id": "corporate",
+            "rating": 3.4
+        }
     },
     {
-      id: 134,
-      title: 'В глуши',
-      originalTitle: 'Untamed',
-      year: 2025,
-      genres: ['Триллер', 'Драма', 'Криминал', 'Детектив'],
-      description: 'Расследование в лесах Йосемити или когда «Настоящий детектив» заблудился в «Йеллоустоуне». Работник Йосемитского национального парка Кайл Тернер расследует жестокое убийство на территории калифорнийского заповедника.',
-      posterUrl: 'https://m.media-amazon.com/images/M/MV5BODkxMDM5YWItNDcxZi00NjQ3LWE3NzMtNjM0MzgyNWM0MDhhXkEyXkFqcGc@._V1_.jpg',
-      type: MediaType.SERIES,
-      seasons: 1
+        "id": 121,
+        "title": "Сайнфелд",
+        "originalTitle": "Seinfeld",
+        "year": 1989,
+        "genres": ["Комедия"],
+        "description": "Культовый сериал о 'ни о чем'.",
+        "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/f32a003f-d00d-4a71-9c71-128fc34b83ee/600x900",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/seinfeld-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 9,
+            "episodes": 180,
+            "endYear": 1998
+        },
+        "imdb": {
+            "id": "tt0098904",
+            "rating": 8.9,
+            "genres": ["Comedy"]
+        },
+        "kinopoisk": {
+            "id": "77044",
+            "rating": 8.8,
+            "genres": ["Комедия"],
+            "description": "Комик Джерри Сайнфелд и его друзья Элейн, Джордж и Крамер попадают в нелепые ситуации из повседневной жизни Нью-Йорка."
+        },
+        "letterboxd": {
+            "id": "seinfeld",
+            "rating": 4.4
+        }
     },
     {
-      id: 135,
-      title: 'Винил',
-      originalTitle: 'Vinyl',
-      year: 2016,
-      genres: ['Драма', 'Музыка'],
-      description: 'О музыкальной индустрии 1970-х в Нью-Йорке.',
-      posterUrl: 'https://images.justwatch.com/poster/183519255/s718/vinyl.jpg',
-      type: MediaType.SERIES,
-      seasons: 1
+        "id": 122,
+        "title": "САС: Неизвестные герои",
+        "originalTitle": "SAS: Rogue Heroes",
+        "year": 2022,
+        "genres": ["Драма", "Военный"],
+        "description": "Северная Африка, 1941 год. Молодой и эксцентричный британский офицер Дэвид Стерлинг, убеждённый в неэффективности традиционных методов ведения войны, предлагает радикальный план формирования нового подразделения для выполнения спецопераций и диверсий в тылу нацистов.",
+        "posterUrl": "https://www.kino-teatr.ru/movie/poster/156003/237728.jpg",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/5x/7k/6g/5n/sas-rogue-heroes-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 1,
+            "episodes": 6,
+            "endYear": 2022
+        },
+        "imdb": {
+            "id": "tt13313298",
+            "rating": 8.1,
+            "genres": ["Action", "Drama", "War"]
+        },
+        "kinopoisk": {
+            "id": "1395869",
+            "rating": 7.9,
+            "genres": ["Драма", "Военный"],
+            "description": "История создания британского спецподразделения SAS во время Второй мировой войны группой эксцентричных офицеров под руководством Дэвида Стерлинга."
+        },
+        "letterboxd": {
+            "id": "sas-rogue-heroes",
+            "rating": 3.8
+        }
     },
     {
-      id: 136,
-      title: 'Безумная любовь',
-      originalTitle: 'Mad love',
-      year: 2011,
-      genres: ['Драма', 'Мелодрама'],
-      description: 'Российский сериал о сложных отношениях.',
-      posterUrl: 'https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/c577306e-dc46-4a82-a85b-2d17ec3eccf9/600x900',
-      type: MediaType.SERIES,
-      seasons: 1,
-      episodes: 13
-    },
-    {
-      id: 138,
-      title: 'Как я встретил вашу маму',
-      originalTitle: 'How I Met Your Mother',
-      year: 2005,
-      genres: ['Комедия', 'Романтика', 'Ситком'],
-      description: 'комедийный сериал о приключениях Теда Мосби и его друзей в Нью-Йорке. Через забавные и трогательные истории Тед рассказывает детям, как встретил их маму, раскрывая секреты дружбы, любви и взросления. Идеальный выбор для тех, кто любит лёгкий юмор и душевные моменты!',
-      posterUrl: 'https://www.kino-teatr.ru/movie/posters/big/5/6/20165.jpg',
-      type: MediaType.SERIES,
-      seasons: 1
-    },
-    {
-      id: 139,
-      title: 'Киностудия',
-      originalTitle: 'The Studio',
-      year: 2025,
-      genres: ['Комедия'],
-      description: 'Продюсер Мэтт Ремик получает долгожданное повышение и становится главой кинокомпании Continental Studios. Его первый проект на новой должности — супергеройский дорогостоящий фильм, на который его босс возлагает большие надежды.',
-      posterUrl: 'https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/49fa0f44-c8da-4e24-b9bd-8839afb62e5f/600x900',
-      type: MediaType.SERIES,
-      seasons: 2
-    },
-    {
-      id: 140,
-      title: 'Кремниевая долина',
-      originalTitle: 'Silicon Valley',
-      year: 2014,
-      genres: ['Комедия'],
-      description: 'О стартаперах в Кремниевой долине.',
-      posterUrl: 'https://ru-images.kinorium.com/movie/1080/679783.jpg?1652086465',
-      type: MediaType.SERIES,
-      seasons: 6
-    },
-    {
-      id: 141,
-      title: 'Меломанка',
-      originalTitle: 'High Fidelity',
-      year: 2020,
-      genres: ['Драма', 'Музыка'],
-      description: 'О девушке, работающей на виниловом заводе в 1990-х.',
-      posterUrl: 'https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/a59c97f5-ea4a-4708-a1d1-949a34dc3ba3/600x900',
-      type: MediaType.SERIES,
-      seasons: 1
-    },
-    {
-      id: 142,
-      title: 'Монстры корпораций',
-      originalTitle: 'Corporate',
-      year: 2018,
-      genres: ['Комедия'],
-      description: 'О абсурде корпоративной культуры.',
-      posterUrl: 'https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/591519e4-93c6-4047-8c76-26dba02e3393/600x900',
-      type: MediaType.SERIES,
-      seasons: 3
-    },
-    {
-      id: 143,
-      title: 'Сайнфелд',
-      originalTitle: 'Seinfeld',
-      year: 1989,
-      genres: ['Комедия'],
-      description: 'Культовый сериал о "ни о чем".',
-      posterUrl: 'https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/f32a003f-d00d-4a71-9c71-128fc34b83ee/600x900',
-      type: MediaType.SERIES,
-      seasons: 9
-    },
-    {
-      id: 144,
-      title: 'САС: Неизвестные герои',
-      originalTitle: 'SAS: Rogue Heroes',
-      year: 2022,
-      genres: ['Драма', 'Военный'],
-      description: 'Северная Африка, 1941 год. Молодой и эксцентричный британский офицер Дэвид Стерлинг, убеждённый в неэффективности традиционных методов ведения войны, предлагает радикальный план формирования нового подразделения для выполнения спецопераций и диверсий в тылу нацистов.',
-      posterUrl: 'https://www.kino-teatr.ru/movie/poster/156003/237728.jpg',
-      type: MediaType.SERIES,
-      seasons: 1
-    },
-    {
-      id: 145,
-      title: 'Сыны анархии',
-      originalTitle: 'Sons of Anarchy',
-      year: 2008,
-      genres: ['Криминал', 'Драма'],
-      description: 'О байкерском клубе в Калифорнии.',
-      posterUrl: 'https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/81be3b3e-719f-4d81-8c52-00b82c4e8674/220x330',
-      type: MediaType.SERIES,
-      seasons: 7
+        "id": 123,
+        "title": "Сыны анархии",
+        "originalTitle": "Sons of Anarchy",
+        "year": 2008,
+        "genres": ["Криминал", "Драма"],
+        "description": "О байкерском клубе в Калифорнии.",
+        "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/81be3b3e-719f-4d81-8c52-00b82c4e8674/220x330",
+        "posterUrl2": "https://a.ltrbxd.com/resized/sm/upload/7i/7p/3d/5x/sons-of-anarchy-1200-1200-675-675-crop-000000.jpg",
+        type: MediaType.SERIES,
+        "seriesInfo": {
+            "seasons": 7,
+            "episodes": 92,
+            "endYear": 2014
+        },
+        "imdb": {
+            "id": "tt1124373",
+            "rating": 8.6,
+            "genres": ["Crime", "Drama", "Thriller"]
+        },
+        "kinopoisk": {
+            "id": "435756",
+            "rating": 8.5,
+            "genres": ["Криминал", "Драма"],
+            "description": "Джексон 'Джекс' Теллер пытается управлять байкерским клубом 'Сыны анархии', балансируя между криминалом и семейными обязательствами."
+        },
+        "letterboxd": {
+            "id": "sons-of-anarchy",
+            "rating": 4.1
+        }
     }
 ];

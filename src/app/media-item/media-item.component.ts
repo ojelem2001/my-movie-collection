@@ -1,5 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { Media } from '../models/media.model';
+import { MediaType } from '../models/media.enum';
 
 @Component({
   selector: 'app-media-item',
@@ -9,7 +10,8 @@ import { Media } from '../models/media.model';
 })
 export class MediaItemComponent {
   @Input() media!: Media;
-  
+
+  mediaType = MediaType;
  playInVLC() {
   if (!this.media.filePath) {
     console.error('File path not specified');

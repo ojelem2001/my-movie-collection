@@ -3,22 +3,58 @@
     <img [src]="media.posterUrl" [alt]="media.title">
   </div>
   <div class="media-info">
-    <h3>{{ media.title }} </h3>
-    <p class="original-title" *ngIf="media.originalTitle && media.originalTitle !== media.title">
-      {{ media.originalTitle }}
-    </p>
+    <h3>{{ media.title }}</h3>
+    @if (media.originalTitle && media.originalTitle !== media.title) {
+      <p class="original-title">
+        {{ media.originalTitle }}
+      </p>
+    }
+    
+    <div class="media-meta">
+      @if (media.type === mediaType.SERIES) {
+        <div class="media-dates">
+          <span class="year-range">
+            {{media.year + '-' + media.seriesInfo?.endYear}}
+          </span>
+        </div>
+      } @else {
+        <span class="year">{{ media.year }}</span>
+      }
+      
+      @if (media.type === mediaType.SERIES && media.seriesInfo) {
+        <div class="series-stats">
+          <span class="seasons">
+            <i class="icon seasons-icon"></i>
+            {{ media.seriesInfo.seasons }} сезон{{ media.seriesInfo.seasons > 4 ? 'ов' : media.seriesInfo.seasons > 1 ? 'а' : '' }}
+          </span>
+        </div>
+      } 
+    
+      <span class="genres">{{ media.genres.slice(0, 2).join(', ') }}</span>
+       @if (media.genres.length > 3) {
+        <span  class="more-genres">+{{ media.genres.length - 3 }}</span>
+       }
+    </div>
+    
+    <div class="ratings">
+      <span class="rating">
+        <span class="rating-icon imdb-icon"></span>
+        {{ media.imdb?.rating || '-' }}
+      </span>
+      <span class="rating">
+        <span class="rating-icon kinopoisk-icon"></span>
+        {{ media.kinopoisk?.rating || '-' }}
+      </span>
+      <span class="rating">
+        <span class="rating-icon letterboxd-icon"></span>
+        {{ media.letterboxd?.rating || '-' }}
+      </span>
+    </div>
+
+    <p class="description">{{ media.kinopoisk?.description ?? media.description }}</p>
+    
     <button class="play-button" (click)="playInVLC()">
       <span class="vlc-icon"></span> Смотреть
     </button>
-    <div class="media-meta">
-      <span *ngIf="media.type === 'series' && media.seasons">
-        {{ media.seasons }} сезон{{ media.seasons > 4 ? 'ов' : media.seasons > 1 ? 'а' : '' }};
-      </span>
-      <span class="year">{{ media.year }}</span>
-      <span class="divider">•</span>
-      <span class="genres">{{ media.genres.slice(0, 2).join(', ') }}</span>
-      <span *ngIf="media.genres.length > 3" class="more-genres">+{{ media.genres.length - 3 }}</span>
-    </div>
-    <p>{{ media.description }}</p>
   </div>
 </div>

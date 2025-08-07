@@ -15,7 +15,7 @@ export interface Media {
   kinopoisk?: MediaPlatform,
   letterboxd?: MediaPlatform,
   type: MediaType;
-  series?: SeriesModel,
+  seriesInfo?: SeriesModel,
   seasons?: number;
   episodes?: number;
   filePath?: string; // Путь к файлу на диске

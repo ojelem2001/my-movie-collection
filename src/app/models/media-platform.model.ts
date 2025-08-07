@@ -2,7 +2,7 @@ import { MediaType } from './media.enum';
 
 export interface MediaPlatform {
   id: string;
-  rating: number;
+  rating?: number;
   description?: string;
   genres?: string[];
 }
