@@ -8,7 +8,48 @@
   border-radius: 8px;
   position: relative;
 }
-/* Стили для табов категорий */
+
+.logo-theme-container {
+  position: fixed;
+  top: 0; 
+  right: 0;
+}
+.dynamic-logo {
+    width: 200px;
+    height: 60px;
+    font-family: Arial, sans-serif;
+}
+
+.logo-bg {
+  fill: var(--bg-secondary);
+}
+
+  .logo-text {
+    fill: var(--text-primary);
+    font-weight: 300; 
+  }
+
+  .logo-icon-bg {
+    fill: var(--play-bg);
+  }
+
+  /* Иконка (треугольник) */
+  .logo-icon {
+    fill: var(--bg-secondary);
+  }
+
+  /* Специфичные настройки для Netflix */
+  body.netflix-theme .logo-text {
+    font-weight: 700;
+  }
+
+  /* Плавные переходы */
+  .logo-bg,
+  .logo-text,
+  .logo-icon-bg,
+  .logo-icon {
+    transition: all 0.3s ease;
+  }
 .category-tabs {
   display: flex;
   gap: 10px;

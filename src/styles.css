@@ -28,8 +28,8 @@ button.primary {
   --bg-secondary: #222;
   --text-primary: #e5e5e5;
   --text-secondary: #b3b3b3;
-  --accent: #e50914;
   --card-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+  --play-bg:  #e50914;
 }
 
 /* Тема Letterboxd (светлая) */
@@ -40,4 +40,5 @@ button.primary {
   --text-secondary: #495057;
   --accent: #00a862;
   --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --play-bg: #212529;
 }
