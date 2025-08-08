@@ -1,0 +1,5 @@
+<div class="media-grid">
+  @for (media of getFiltered(filters); track media.id;) {
+    <app-media-item [media]="media"></app-media-item>
+  }
+</div>

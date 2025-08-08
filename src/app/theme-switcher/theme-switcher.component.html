@@ -1,9 +1,10 @@
 <div class="theme-switcher">
-  <button 
-    *ngFor="let theme of themes"
-    (click)="setTheme(theme)"
-    [class.active]="currentTheme === theme"
-   >
-    {{ getThemeName(theme) }}
-  </button>
+    @for (theme of themes; track theme;) { 
+      <button 
+        (click)="setTheme(theme)"
+        [class.active]="currentTheme === theme">
+          {{ getThemeName(theme) }}
+      </button>
+    }
+ 
 </div>

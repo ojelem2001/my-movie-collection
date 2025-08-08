@@ -3,7 +3,10 @@
     <app-media-filters
       (filterChange)="onFiltersChanged($event)"
     ></app-media-filters>
-    <app-theme-switcher ngSkipHydration></app-theme-switcher>
+    
+    <div class="logo-theme-container">
+      <app-theme-switcher ngSkipHydration></app-theme-switcher>
+    </div>
   </div>
 
   <div class="category-tabs">
@@ -25,12 +28,17 @@
       <span class="counter">{{seriesCount$$.getValue()}}</span>
     </button>
   </div>
-  <app-movie-list *ngIf="currentView === mediaType.MOVIE" 
-    [filters]="currentFilters" 
-    [movies]="movies">
-  </app-movie-list>
-  <app-series-list *ngIf="currentView === mediaType.SERIES" 
-    [filters]="currentFilters"
-    [series]="series">
-  </app-series-list>
+  
+  @if (currentView === mediaType.MOVIE) {
+    <app-media-list
+      [filters]="currentFilters" 
+      [medias]="movies">
+    </app-media-list>
+  } 
+  @if (currentView === mediaType.SERIES) {
+    <app-media-list
+      [filters]="currentFilters" 
+      [medias]="series">
+    </app-media-list>
+  }
 </div>

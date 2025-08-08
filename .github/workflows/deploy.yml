@@ -31,7 +31,12 @@ jobs:
         key: ${{ secrets.VM_SSH_KEY }} 
         script: |
           cd ~/applications/my-movie-collection
-          git pull origin main
-          npm ci
-          npm run build -- --configuration=production
-          sudo systemctl restart nginx
+          git pull origin main && ng build --output-path=/var/www/html/my-movie-collection/
+    - name: Verify deployment
+      uses: appleboy/ssh-action@v1
+      with:
+        host: ${{ secrets.VM_HOST }}
+        username: ${{ secrets.VM_USER }}
+        key: ${{ secrets.VM_SSH_KEY }}
+        script: |
+          curl -I http://${{ secrets.VM_HOST }}/my-movie-collection

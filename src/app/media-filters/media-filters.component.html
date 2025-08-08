@@ -21,18 +21,22 @@
         <label for="genre">Жанр:</label>
         <select id="genre" [(ngModel)]="selectedGenre" (change)="applyFilters()">
           <option value="">Все жанры</option>
-          <option *ngFor="let genre of availableGenres" [value]="genre">
-            {{ genre }}
-          </option>
+          @for (genre of availableGenres; track genre;) {
+            <option  [value]="genre">
+              {{ genre }}
+            </option>
+          }
         </select>
       </div>
 
       <div class="filter-group">
         <label for="decade">Года:</label>
         <select id="decade" [(ngModel)]="selectedDecade" (change)="applyFilters()">
-          <option *ngFor="let decade of decadeFilters" [value]="decade">
-            {{ decade }}
-          </option>
+          @for (decade of decadeFilters; track decade;) {
+            <option [value]="decade">
+              {{ decade }}
+            </option>
+          }
         </select>
       </div>
  
