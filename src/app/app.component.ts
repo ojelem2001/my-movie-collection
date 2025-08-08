@@ -35,8 +35,7 @@ export class AppComponent implements OnInit  {
     this.series = this.mediaService.getSeries();
     this.moviesCount$$.next(this.movies.length);
     this.seriesCount$$.next(this.series.length);
-   this.currentView = localStorage.getItem('mediaType') as MediaType || MediaType.MOVIE;
-
+    this.currentView = MediaType.MOVIE;
   }
 
   showMovies() {

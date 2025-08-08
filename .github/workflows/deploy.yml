@@ -1,0 +1,37 @@
+name: Deploy My-Movie-Collection app
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Install Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 22
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Build Angular app
+      run: npm run build -- --configuration=production
+
+    - name: Deploy to server using SSH
+      uses: appleboy/ssh-action@v1
+      with:
+        host: ${{ secrets.VM_HOST }}
+        username: ${{ secrets.VM_USER }}
+        key: ${{ secrets.VM_SSH_KEY }} 
+        script: |
+          cd ~/applications/my-movie-collection
+          git pull origin main
+          npm ci
+          npm run build -- --configuration=production
+          sudo systemctl restart nginx
